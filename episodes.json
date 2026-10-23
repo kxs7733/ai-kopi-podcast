@@ -1,0 +1,158 @@
+[
+ {
+  "date": "2026-10-20",
+  "title": "Anthropic's $48B pledge, DeepSeek's price cut",
+  "pretty": "Tue 20 Oct 2026",
+  "minutes": "5 min",
+  "seconds": 286,
+  "bytes": 2287272,
+  "points": [
+   "Anthropic commits 5% equity (about $48B) to a new Public Benefit Fund for workers hit by AI.",
+   "DeepSeek's cheaper open-weight model and new web-search APIs undercut US rivals on price and speed.",
+   "OpenAI's mystery 'Aurora' image models and a new Chrome computer-use feature surfaced over the weekend."
+  ],
+  "rfc822": "Tue, 20 Oct 2026 08:00:00 +0800",
+  "transcript": [
+   {
+    "speaker": "Mei",
+    "text": "Anthropic says it will put 5 percent of its equity, about $48 billion, into a fund for workers hit by AI."
+   },
+   {
+    "speaker": "Raj",
+    "text": "That is serious kopi money. Who gets it?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "We'll get there. This is AI Kopi Daily, Tuesday 20 October 2026."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Three things today. One: Anthropic commits 5 percent of its equity, about $48 billion, to a new Public Benefit Fund for workers hit by AI."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Two: DeepSeek's cheaper open-weight model and new web-search services undercut US rivals on price and speed."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Three: OpenAI's mystery Aurora image models and a new Chrome computer-use feature surfaced over the weekend."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Back to Anthropic. It plans to give an initial 5 percent of its equity to a new Public Benefit Fund. That is about $48 billion at its last valuation. It still needs shareholder approval, and more would be added as the company's value grows."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So who can actually get the money?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "The fund can donate to nonprofits or pay specific groups directly, including workers hit by AI. It cannot fund political causes."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Like a hawker setting aside a slice of every day's takings for neighbours who lose their stalls."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Nice picture. For a company like Shopee, it could signal that support for displaced workers is becoming part of the AI conversation. Worth watching whether others follow."
+   },
+   {
+    "speaker": "Raj",
+    "text": "One thing to remember: 5 percent, pending shareholder approval."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Mei: DeepSeek released an open-weight model called V4.1-Flash-1017. Open-weight means the model's inner settings are published for others to run. DeepSeek says it beats Claude Opus 5 and GPT-5.6 on its own coding benchmark, while running faster and far cheaper."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Its own benchmark. That's a stall owner grading his own chicken rice."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Fair, so treat the claim carefully. DeepSeek also opened pay-per-call Search and Fetch services for web browsing, priced well below rivals. They are free until November 1 for agents built on Claude Code or Codex."
+   },
+   {
+    "speaker": "Raj",
+    "text": "And agents are AI helpers that carry out tasks, right?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Right. For teams at a company like Shopee, cheaper models and search could change what it costs to test an AI idea. Worth watching, not a conclusion."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Remember this: cheaper, and free until November 1 for some agents."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Anthropic's own workforce study found junior staff fell from 27 percent to 9 percent of technical hires since early 2025."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So AI is doing their work?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "The data points that way. By August, AI agents run by employees logged six times the hours of the humans operating them. Engineers ship far more code, but reviewing and supervising agents has become the real bottleneck."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Like a kitchen with many fast cooks and one chef who has to taste every dish."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Exactly. At a company like Shopee, it could mean checking work matters more than producing it. Worth watching how entry-level roles change."
+   },
+   {
+    "speaker": "Raj",
+    "text": "The takeaway: the bottleneck moves from making to checking."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Try this today. Claude Code can turn a folder of notes, screenshots or reports into a slide deck. Point it at the folder and ask for a polished deck. It arrives as an editable Slides artifact."
+   },
+   {
+    "speaker": "Raj",
+    "text": "And if slide three is rubbish?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Refine individual slides by chatting with it. Then export to PowerPoint, PDF or Google Slides."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So messy notes become a presentable deck before your kopi gets cold."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Quick ones. A Wharton survey of over 1,400 US enterprise leaders found only 7 percent of companies succeed at proving AI's value, reshaping workflows and aligning the organisation."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Disney agreed to hire over 60 Character.AI employees for about $60 million a year in pay, in a bankruptcy-sale bid a rival could still beat."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Shares of CoreWeave, Nebius and IREN each fell over 20 percent last week, which Goldman Sachs links to rising borrowing costs for data-center buildouts."
+   },
+   {
+    "speaker": "Raj",
+    "text": "And China proposed export controls on 23 AI-related items, though access through apps and software connections would stay open."
+   },
+   {
+    "speaker": "Mei",
+    "text": "So, back to where we started: Anthropic is pledging 5 percent of its equity, about $48 billion, toward workers hit by AI."
+   },
+   {
+    "speaker": "Raj",
+    "text": "A big pledge, still pending approval. The full digest with links is in the newsletter."
+   },
+   {
+    "speaker": "Mei",
+    "text": "That's AI Kopi Daily. See you tomorrow."
+   }
+  ]
+ }
+]

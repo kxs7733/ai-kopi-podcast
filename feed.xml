@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+ xmlns:atom="http://www.w3.org/2005/Atom">
+<channel><title>AI Kopi Daily</title><link>https://kxs7733.github.io/ai-kopi-podcast/</link><language>en-sg</language>
+<atom:link href="https://kxs7733.github.io/ai-kopi-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+<description>Your daily shot of AI news in five minutes: Mei and Raj talk through the day&#x27;s AI Kopi Daily newsletter over kopi. Made with AI from the newsletter, which is built from the top AI newsletters; check the original source before acting on a figure.</description><itunes:author>Shopee SG AI Champion team</itunes:author>
+<itunes:summary>Your daily shot of AI news in five minutes: Mei and Raj talk through the day&#x27;s AI Kopi Daily newsletter over kopi. Made with AI from the newsletter, which is built from the top AI newsletters; check the original source before acting on a figure.</itunes:summary>
+<itunes:image href="https://kxs7733.github.io/ai-kopi-podcast/cover.jpg"/><image><url>https://kxs7733.github.io/ai-kopi-podcast/cover.jpg</url><title>AI Kopi Daily</title>
+<link>https://kxs7733.github.io/ai-kopi-podcast/</link></image>
+<itunes:category text="Technology"/><itunes:explicit>false</itunes:explicit>
+<item><title>Anthropic&#x27;s $48B pledge, DeepSeek&#x27;s price cut</title>
+<description>Anthropic commits 5% equity (about $48B) to a new Public Benefit Fund for workers hit by AI. DeepSeek&#x27;s cheaper open-weight model and new web-search APIs undercut US rivals on price and speed. OpenAI&#x27;s mystery &#x27;Aurora&#x27; image models and a new Chrome computer-use feature surfaced over the weekend.</description>
+<link>https://kxs7733.github.io/ai-kopi-podcast/e/2026-10-20.html</link><guid isPermaLink="false">ai-kopi-2026-10-20</guid>
+<pubDate>Tue, 20 Oct 2026 08:00:00 +0800</pubDate>
+<enclosure url="https://kxs7733.github.io/ai-kopi-podcast/audio/2026-10-20.mp3" length="2287272" type="audio/mpeg"/>
+<itunes:duration>286</itunes:duration><itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit></item>
+</channel></rss>
