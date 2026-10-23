@@ -1,5 +1,169 @@
 [
  {
+  "date": "2026-10-22",
+  "title": "DeepSeek's free engine, scorpion proteins, OpenAI buys",
+  "pretty": "Thu 22 Oct 2026",
+  "minutes": "5 min",
+  "seconds": 287,
+  "bytes": 2295431,
+  "points": [
+   "DeepSeek open-sourced DeepInfer, the engine behind its production AI service, free for anyone to deploy.",
+   "Anthropic's Claude autonomously designed 318,000 scorpion-antivenom candidate proteins; 17 bound their target in lab tests.",
+   "OpenAI acquired drug-trial startup Orchestra Bio, while Altman told staff AI's endgame may need a global regulator."
+  ],
+  "rfc822": "Thu, 22 Oct 2026 08:00:00 +0800",
+  "transcript": [
+   {
+    "speaker": "Mei",
+    "text": "DeepSeek just gave away the engine that runs its own AI service, for free."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Free? That's like a famous hawker handing out the recipe and the stove."
+   },
+   {
+    "speaker": "Mei",
+    "text": "This is AI Kopi Daily, for Thursday, 22 October 2026."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Three things today. First, DeepSeek open-sourced DeepInfer, the engine behind its production AI service, free for anyone to deploy."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Second, Anthropic's Claude autonomously designed 318,000 scorpion-antivenom candidate proteins. 17 bound their target in lab tests."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Third, OpenAI acquired drug-trial startup Orchestra Bio, while Altman told staff AI's endgame may need a global regulator."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Let's start with DeepSeek. It released DeepInfer, the software that runs its DeepSeek-V4.1-Flash model in production. Anyone can use it commercially, for free."
+   },
+   {
+    "speaker": "Raj",
+    "text": "In plain terms, what is an inference engine?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "It's the part that answers your questions once a model is trained. The company says it processes huge volumes of tokens daily on Nvidia and Huawei chips."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So training is learning to cook. Inference is the kitchen serving thousands of plates at lunch rush."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Exactly. Several newsletters reported it as a way to cut the cost of running large AI models at scale. And this is the same software behind DeepSeek's live service."
+   },
+   {
+    "speaker": "Raj",
+    "text": "For a company like Shopee, that could mean cheaper AI features, say in search or customer chat. Worth watching. Remember: the kitchen blueprint is now free."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Next, scorpion antivenom. Investment firm Citrini Research used Anthropic's Claude, almost entirely unsupervised, to design over 318,000 candidate proteins meant to block scorpion venom toxins."
+   },
+   {
+    "speaker": "Raj",
+    "text": "That's a lot of candidates. Did any work?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "They sent 211 for lab testing. Outside labs confirmed 17 bind their target toxin. But none have been shown to actually neutralize venom or protect against stings."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So it's 17 keys that fit the lock, but nobody has opened the door yet."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Good picture. And note that Citrini is an investment firm, not a drug lab."
+   },
+   {
+    "speaker": "Raj",
+    "text": "For teams at a company like Shopee, it could be a pattern worth watching: let AI draft huge numbers of options, then people check the few that matter. Remember: 17 bound their target, none proven to neutralize venom."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Third, OpenAI bought Orchestra Bio, a startup whose AI agents track how a delay in one part of a drug study affects the rest of the program."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So like one stalled MRT train slowing the whole line, and the agents spot the knock-on effects?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "That's the idea. The deal folds Orchestra Bio into Rosalind, OpenAI's existing suite of life-sciences AI tools."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Meanwhile, Altman reportedly told staff the industry could end in a global watchdog, a single merged super-lab, or one company racing ahead of every rival."
+   },
+   {
+    "speaker": "Mei",
+    "text": "He called the last option terrible, and said OpenAI must pick a path within a year."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Tracking knock-on delays could be worth watching in any complex operation, even at a company like Shopee. Remember: OpenAI just bought a drug-trial coordinator."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Now, try this today. Anthropic shared a method for using Claude to understand a spreadsheet you inherited, before touching it."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Because we've all opened a file full of mystery formulas."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Step one, ask Claude to decode the formulas, the color-coding and the hidden assumptions. Step two, have it list risks in an issue log. No edits yet."
+   },
+   {
+    "speaker": "Raj",
+    "text": "And after that?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Only after you review, ask it to add new data, keeping existing formulas intact."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So read first, then write. Simple enough to try before lunch."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Quick round. Bob McGrew, OpenAI's former chief research officer, launched factory-AI startup Arda, which raised $160M at a $1.5B valuation."
+   },
+   {
+    "speaker": "Mei",
+    "text": "ChatGPT now lets you lock sensitive chats behind a PIN or Face ID."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Meta paused Muse's chat-sharing after researchers found thousands of shared chats, some confidential, via public internet records."
+   },
+   {
+    "speaker": "Mei",
+    "text": "And SpaceX's renamed Super Intelligence AI unit made $7.56B in revenue this quarter, mostly from renting data-center capacity to rival AI labs."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Back to where we started: DeepSeek gave away its engine, reportedly a way to cut the cost of running big AI models."
+   },
+   {
+    "speaker": "Raj",
+    "text": "One thing to take with your kopi: the kitchen blueprint is now free. The full digest with links is in the newsletter."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Thanks for listening, see you tomorrow lah."
+   }
+  ]
+ },
+ {
   "date": "2026-10-21",
   "title": "Cheap AI, Fast Models, and a $50 Break-In",
   "pretty": "Wed 21 Oct 2026",

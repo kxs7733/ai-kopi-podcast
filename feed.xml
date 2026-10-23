@@ -8,6 +8,13 @@
 <itunes:image href="https://kxs7733.github.io/ai-kopi-podcast/cover.jpg"/><image><url>https://kxs7733.github.io/ai-kopi-podcast/cover.jpg</url><title>AI Kopi Daily</title>
 <link>https://kxs7733.github.io/ai-kopi-podcast/</link></image>
 <itunes:category text="Technology"/><itunes:explicit>false</itunes:explicit>
+<item><title>DeepSeek&#x27;s free engine, scorpion proteins, OpenAI buys</title>
+<description>DeepSeek open-sourced DeepInfer, the engine behind its production AI service, free for anyone to deploy. Anthropic&#x27;s Claude autonomously designed 318,000 scorpion-antivenom candidate proteins; 17 bound their target in lab tests. OpenAI acquired drug-trial startup Orchestra Bio, while Altman told staff AI&#x27;s endgame may need a global regulator.</description>
+<link>https://kxs7733.github.io/ai-kopi-podcast/e/2026-10-22.html</link><guid isPermaLink="false">ai-kopi-2026-10-22</guid>
+<pubDate>Thu, 22 Oct 2026 08:00:00 +0800</pubDate>
+<enclosure url="https://kxs7733.github.io/ai-kopi-podcast/audio/2026-10-22.mp3" length="2295431" type="audio/mpeg"/>
+<itunes:duration>287</itunes:duration><itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit></item>
 <item><title>Cheap AI, Fast Models, and a $50 Break-In</title>
 <description>Inception&#x27;s Mercury 3 diffusion model claims speed and quality edge over GPT-6 Luna and Claude Haiku 5.5. MiniMax&#x27;s M3.1 Flash cuts agent costs 70% and triples inference speed versus its predecessor. US DHS ordered agencies to purge DeepSeek, while hackers used AI agents to breach 100+ companies.</description>
 <link>https://kxs7733.github.io/ai-kopi-podcast/e/2026-10-21.html</link><guid isPermaLink="false">ai-kopi-2026-10-21</guid>
