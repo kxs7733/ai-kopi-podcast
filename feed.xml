@@ -8,6 +8,13 @@
 <itunes:image href="https://kxs7733.github.io/ai-kopi-podcast/cover.jpg"/><image><url>https://kxs7733.github.io/ai-kopi-podcast/cover.jpg</url><title>AI Kopi Daily</title>
 <link>https://kxs7733.github.io/ai-kopi-podcast/</link></image>
 <itunes:category text="Technology"/><itunes:explicit>false</itunes:explicit>
+<item><title>Cheap AI, Fast Models, and a $50 Break-In</title>
+<description>Inception&#x27;s Mercury 3 diffusion model claims speed and quality edge over GPT-6 Luna and Claude Haiku 5.5. MiniMax&#x27;s M3.1 Flash cuts agent costs 70% and triples inference speed versus its predecessor. US DHS ordered agencies to purge DeepSeek, while hackers used AI agents to breach 100+ companies.</description>
+<link>https://kxs7733.github.io/ai-kopi-podcast/e/2026-10-21.html</link><guid isPermaLink="false">ai-kopi-2026-10-21</guid>
+<pubDate>Wed, 21 Oct 2026 08:00:00 +0800</pubDate>
+<enclosure url="https://kxs7733.github.io/ai-kopi-podcast/audio/2026-10-21.mp3" length="2330318" type="audio/mpeg"/>
+<itunes:duration>291</itunes:duration><itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit></item>
 <item><title>Anthropic&#x27;s $48B pledge, DeepSeek&#x27;s price cut</title>
 <description>Anthropic commits 5% equity (about $48B) to a new Public Benefit Fund for workers hit by AI. DeepSeek&#x27;s cheaper open-weight model and new web-search APIs undercut US rivals on price and speed. OpenAI&#x27;s mystery &#x27;Aurora&#x27; image models and a new Chrome computer-use feature surfaced over the weekend.</description>
 <link>https://kxs7733.github.io/ai-kopi-podcast/e/2026-10-20.html</link><guid isPermaLink="false">ai-kopi-2026-10-20</guid>

@@ -1,5 +1,185 @@
 [
  {
+  "date": "2026-10-21",
+  "title": "Cheap AI, Fast Models, and a $50 Break-In",
+  "pretty": "Wed 21 Oct 2026",
+  "minutes": "5 min",
+  "seconds": 291,
+  "bytes": 2330318,
+  "points": [
+   "Inception's Mercury 3 diffusion model claims speed and quality edge over GPT-6 Luna and Claude Haiku 5.5.",
+   "MiniMax's M3.1 Flash cuts agent costs 70% and triples inference speed versus its predecessor.",
+   "US DHS ordered agencies to purge DeepSeek, while hackers used AI agents to breach 100+ companies."
+  ],
+  "rfc822": "Wed, 21 Oct 2026 08:00:00 +0800",
+  "transcript": [
+   {
+    "speaker": "Mei",
+    "text": "Hackers used AI agents to break into more than 100 company websites, and it reportedly cost about $50 a break-in."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Fifty dollars per break-in. That is a very cheap day at work for a hacker."
+   },
+   {
+    "speaker": "Mei",
+    "text": "This is AI Kopi Daily, Wednesday 21 October 2026."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Three things today. First, Inception's Mercury 3 diffusion model claims a speed and quality edge over GPT-6 Luna and Claude Haiku 5.5."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Second, MiniMax says its M3.1 Flash cuts agent costs 70 percent and triples inference speed versus its predecessor."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Third, the US Department of Homeland Security ordered agencies to purge DeepSeek, while hackers used AI agents to breach more than 100 companies."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Let's start with the hackers. Security firm NorForge found unsecured control panels for an AI hacking tool called Cairn. They showed one hacker using AI agents to break into over 100 company websites."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Anyone big?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Deere, SharkNinja and Cummins were among them. NorForge estimates each successful break-in cost roughly $50 in AI fees, using tools like Claude Code and DeepSeek's cheap model."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So it is like a burglar who once needed years of training, and now rents a cheap robot that tries every door."
+   },
+   {
+    "speaker": "Mei",
+    "text": "For a company like Shopee, it could mean more attempts against websites, at lower cost to attackers. How security teams respond is worth watching."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Cheaper for attackers, then. The one thing to remember: about $50 a break-in."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Next, speed. Inception launched Mercury 3, a diffusion-based large language model. Instead of writing one word at a time, it drafts and refines many words at once."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Like a kitchen plating ten bowls of noodles together, instead of one bowl at a time."
+   },
+   {
+    "speaker": "Mei",
+    "text": "That is the idea. Inception says it is 4-8x faster than rivals and can generate over 1,000 tokens per second. It also says quality matches or beats GPT-6 Luna and Claude Haiku 5.5."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Tokens being the small chunks of text the model writes out. And the price?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "$0.20 and $0.70 per million tokens. Those are Inception's own claims, so worth checking."
+   },
+   {
+    "speaker": "Raj",
+    "text": "What could it mean for us?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "If the claims hold, faster replies could matter for things like customer chat. That is only a thought for now."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Remember: 4-8x faster, says Inception."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Third, MiniMax launched M3.1 Flash. It is the production version of a previously unnamed stealth model, called Space Bunny."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Space Bunny. What does it do?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "MiniMax claims big gains in coding, computer use and cybersecurity tasks. It says the model is three times faster and 70 percent cheaper to run than its predecessor."
+   },
+   {
+    "speaker": "Raj",
+    "text": "When can people get it?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "An open-weight release is planned for October 23."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So it is like a hawker stall that cut its prices and says it now serves three times faster."
+   },
+   {
+    "speaker": "Mei",
+    "text": "One analysis says cheap open models from MiniMax and DeepSeek are squeezing US pricing for budget AI. For a company like Shopee, cheaper agents could change what teams can afford to try. Worth watching."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Remember: 70 percent cheaper, according to MiniMax."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Try this today. A guide shows how to use Google's Gemini 4 Argon to compare two versions of a document."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Say, an old and a new version of a policy?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Yes. Tell it which version wins when the two conflict. Then require a citation for every finding."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Any trick to get better answers?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Paste your documents before your question. Argon's large context window still has to share space between your input and its reasoning."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So documents first, question last. Try it on a document you already know, so you can check the citations."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Quick hits. Anthropic's free OSS Scanner reported 77 critical and 803 high-severity findings in open-source projects in its first week."
+   },
+   {
+    "speaker": "Mei",
+    "text": "A Google DeepMind study found that wrong user hints cut AI agent success by almost 50 percent."
+   },
+   {
+    "speaker": "Raj",
+    "text": "The Department of Homeland Security gave federal civilian agencies 60 days to request exceptions to its DeepSeek order."
+   },
+   {
+    "speaker": "Mei",
+    "text": "And Anthropic and Nscale are reportedly negotiating a second $45 billion compute deal, barely a month after the first."
+   },
+   {
+    "speaker": "Mei",
+    "text": "So, back to where we started. AI is getting cheaper and faster, and that includes for attackers."
+   },
+   {
+    "speaker": "Raj",
+    "text": "About $50 a break-in. Worth remembering over your kopi."
+   },
+   {
+    "speaker": "Mei",
+    "text": "The full digest with links is in the newsletter. This was AI Kopi Daily. See you tomorrow."
+   }
+  ]
+ },
+ {
   "date": "2026-10-20",
   "title": "Anthropic's $48B pledge, DeepSeek's price cut",
   "pretty": "Tue 20 Oct 2026",
