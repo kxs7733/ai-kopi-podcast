@@ -8,6 +8,13 @@
 <itunes:image href="https://kxs7733.github.io/ai-kopi-podcast/cover.jpg"/><image><url>https://kxs7733.github.io/ai-kopi-podcast/cover.jpg</url><title>AI Kopi Daily</title>
 <link>https://kxs7733.github.io/ai-kopi-podcast/</link></image>
 <itunes:category text="Technology"/><itunes:explicit>false</itunes:explicit>
+<item><title>Claude Duet, PHP Flaws and OpenAI on Google</title>
+<description>Anthropic launched Claude Duet, a proactive AI agent that works autonomously while you&#x27;re away, in preview for US Pro/Max users. AI models (GPT-5.6 Sol, Gemini) found two critical PHP flaws letting hackers hijack servers without login; patches are now live. OpenAI&#x27;s models and Codex agent tool are coming to Google Cloud&#x27;s Model Garden, plus Google&#x27;s Antigravity and Gemini Agent soon.</description>
+<link>https://kxs7733.github.io/ai-kopi-podcast/e/2026-10-23.html</link><guid isPermaLink="false">ai-kopi-2026-10-23</guid>
+<pubDate>Fri, 23 Oct 2026 08:00:00 +0800</pubDate>
+<enclosure url="https://kxs7733.github.io/ai-kopi-podcast/audio/2026-10-23.mp3" length="2308377" type="audio/mpeg"/>
+<itunes:duration>288</itunes:duration><itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit></item>
 <item><title>DeepSeek&#x27;s free engine, scorpion proteins, OpenAI buys</title>
 <description>DeepSeek open-sourced DeepInfer, the engine behind its production AI service, free for anyone to deploy. Anthropic&#x27;s Claude autonomously designed 318,000 scorpion-antivenom candidate proteins; 17 bound their target in lab tests. OpenAI acquired drug-trial startup Orchestra Bio, while Altman told staff AI&#x27;s endgame may need a global regulator.</description>
 <link>https://kxs7733.github.io/ai-kopi-podcast/e/2026-10-22.html</link><guid isPermaLink="false">ai-kopi-2026-10-22</guid>

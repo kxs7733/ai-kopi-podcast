@@ -1,5 +1,185 @@
 [
  {
+  "date": "2026-10-23",
+  "title": "Claude Duet, PHP Flaws and OpenAI on Google",
+  "pretty": "Fri 23 Oct 2026",
+  "minutes": "5 min",
+  "seconds": 288,
+  "bytes": 2308377,
+  "points": [
+   "Anthropic launched Claude Duet, a proactive AI agent that works autonomously while you're away, in preview for US Pro/Max users.",
+   "AI models (GPT-5.6 Sol, Gemini) found two critical PHP flaws letting hackers hijack servers without login; patches are now live.",
+   "OpenAI's models and Codex agent tool are coming to Google Cloud's Model Garden, plus Google's Antigravity and Gemini Agent soon."
+  ],
+  "rfc822": "Fri, 23 Oct 2026 08:00:00 +0800",
+  "transcript": [
+   {
+    "speaker": "Mei",
+    "text": "Anthropic just launched Claude Duet, an AI agent that keeps working on its own cloud computer even when your devices are off."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So it works the night shift while I sleep. Can it do my kopi run too?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Approval first, Raj. This is AI Kopi Daily, Friday 23 October 2026."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Three things in thirty seconds. One: Anthropic launched Claude Duet, a proactive agent that works autonomously while you're away. It's in preview for US Pro and Max users."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Two: AI models, including GPT-5.6 Sol and Gemini, found two critical PHP flaws that let hackers hijack servers without a login. Patches are now live."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Three: OpenAI's models and its Codex agent tool are coming to Google Cloud's Model Garden. Google's Antigravity and Gemini Agent follow soon."
+   },
+   {
+    "speaker": "Mei",
+    "text": "First, Claude Duet. It is built on Opus 5.5. It monitors your connected apps, sends morning briefs, and works on its own cloud computer. Most of the big newsletters covered it."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Why does the cloud computer matter?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "The work carries on even when your phone and laptop are off."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Hold on. Does it just go and spend my money?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "No. It asks for approval before payments, messages or deletions. For now it is a research preview for waitlisted US Pro and Max subscribers."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So it's like a new colleague who tidies your desk before you arrive, but still asks you to sign off on anything that matters."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Exactly. For a company like Shopee, it could mean routine morning checks get prepared before the team logs in. Worth watching."
+   },
+   {
+    "speaker": "Raj",
+    "text": "One thing to remember: the agent works while you're away, and approval is the safety catch."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Next, security. Researchers using OpenAI's GPT-5.6 Sol, and separately Wiz using Gemini, found two critical flaws in PHP. Both efforts used AI models to find them."
+   },
+   {
+    "speaker": "Raj",
+    "text": "PHP. Is that some niche thing?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Not at all. It is used by roughly 70% of websites. The flaws let attackers hijack servers without logging in."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Roughly 70 percent is a big slice of the web. So it's a door that opens for anyone who walks up and pushes. Is there a fix yet?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Yes. Patches shipped after about two months of coordination. The NSA urged immediate patching or taking systems offline, and some government sites went dark."
+   },
+   {
+    "speaker": "Raj",
+    "text": "For teams like ours, it could be a prompt to ask whether anything we run on PHP is patched. One thing to remember: AI is now helping find serious security holes."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Third, OpenAI's frontier models and its Codex coding agent will be offered through Google Cloud's Model Garden."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Rivals on one shelf? Like two hawker stalls sharing a food court?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Pretty much. Each keeps its own cooking, but customers walk in through one door. They come paired with Google's access controls and infrastructure for enterprise customers."
+   },
+   {
+    "speaker": "Raj",
+    "text": "And where else will they show up?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Inside Google's Antigravity coding tool and the Gemini Agent, soon."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So what could that mean for a company like Shopee?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Teams already on Google Cloud might get OpenAI models alongside Google's own, under the same access controls. Worth watching."
+   },
+   {
+    "speaker": "Raj",
+    "text": "One thing to remember: choosing a model and choosing a cloud may become two separate decisions."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Try this today: have an AI assistant draft your meeting brief."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Walk me through it. I'm not an engineer."
+   },
+   {
+    "speaker": "Mei",
+    "text": "You connect a personal AI assistant to your email and calendar. It catches schedule changes, checks open tasks, and prepares a short meeting brief."
+   },
+   {
+    "speaker": "Raj",
+    "text": "And it won't go rogue and email my boss?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "You can save the steps as a reusable routine that only runs with your approval. Start with low-risk, read-first tasks before letting it send anything."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Small start, same safety catch."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Meta plans to give every shareholder one non-voting share for each share they hold, to fund AI spending without diluting Mark Zuckerberg's control."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Recursive released Flint, an open-source model for AI coding on a laptop, keeping code off remote servers."
+   },
+   {
+    "speaker": "Raj",
+    "text": "OpenAI expanded ChatGPT ads to 26 more countries, bringing the total to 89, shown only to Free and Go plan users."
+   },
+   {
+    "speaker": "Mei",
+    "text": "And a tampered LiteLLM package was live for about two hours before removal, stealing user credentials."
+   },
+   {
+    "speaker": "Mei",
+    "text": "So, back to where we started: Claude Duet, and agents that keep working while you're away."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Let them work, but keep your thumb on the approve button, lah."
+   },
+   {
+    "speaker": "Mei",
+    "text": "The full digest with links is in the newsletter. Thanks for listening, and see you next time on AI Kopi Daily."
+   }
+  ]
+ },
+ {
   "date": "2026-10-22",
   "title": "DeepSeek's free engine, scorpion proteins, OpenAI buys",
   "pretty": "Thu 22 Oct 2026",
