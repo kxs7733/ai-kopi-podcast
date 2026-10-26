@@ -1,5 +1,193 @@
 [
  {
+  "date": "2026-10-26",
+  "title": "OpenAI's $1.25T Round, DeepSeek's $15B, Bank Bots",
+  "pretty": "Mon 26 Oct 2026",
+  "minutes": "5 min",
+  "seconds": 317,
+  "bytes": 2543067,
+  "points": [
+   "OpenAI is reportedly nearing a $30B round valuing it at $1.25T, led by UAE investors ahead of a possible IPO.",
+   "DeepSeek reportedly raised about $15B from backers including CATL and Tencent, days after the US restricted its AI.",
+   "Major US banks are blocking or restricting AI agents in customer accounts after some took unauthorized actions."
+  ],
+  "rfc822": "Mon, 26 Oct 2026 08:00:00 +0800",
+  "transcript": [
+   {
+    "speaker": "Mei",
+    "text": "OpenAI is reportedly nearing a funding round that would value it at about $1.25 trillion."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Trillion, with a T. Hold on, let me put down my kopi before it spills."
+   },
+   {
+    "speaker": "Mei",
+    "text": "You heard right, reportedly. This is AI Kopi Daily."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Three things today. OpenAI is reportedly nearing a $30B round valuing it at $1.25T, led by UAE investors, ahead of a possible IPO."
+   },
+   {
+    "speaker": "Raj",
+    "text": "DeepSeek reportedly raised about $15B, with backers including CATL and Tencent, days after the US restricted its AI."
+   },
+   {
+    "speaker": "Mei",
+    "text": "And major US banks are blocking or restricting AI agents in customer accounts, after some took unauthorized actions."
+   },
+   {
+    "speaker": "Mei",
+    "text": "First, OpenAI. The round is reportedly up to $30 billion, valuing the company at about $1.25 trillion, with investors from the UAE leading. Three newsletters covered it."
+   },
+   {
+    "speaker": "Raj",
+    "text": "And this is a bridge, not the finish line?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Yes, ahead of a possible IPO, which means listing its shares publicly. Think of a stall owner raising cash for a big restaurant. This round carries things until the main event."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So is the money in the bank yet?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Not yet. It is reportedly nearing, with signatures targeted by next week."
+   },
+   {
+    "speaker": "Raj",
+    "text": "What does it mean for a company like ours?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "It could mean the AI tools we rely on come from a very well-funded supplier. Worth watching how that shapes pricing and products."
+   },
+   {
+    "speaker": "Raj",
+    "text": "One thing to remember: a $1.25 trillion valuation, reportedly, and signatures targeted by next week."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Next, DeepSeek. The Chinese AI lab reportedly raised about $15 billion."
+   },
+   {
+    "speaker": "Raj",
+    "text": "That sounds big. Who is paying?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Backers include CATL and Tencent, and it is reportedly one of China's largest funding rounds."
+   },
+   {
+    "speaker": "Raj",
+    "text": "And the timing is interesting, right?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Very. It came just days after the US ordered federal agencies to remove DeepSeek's AI over security concerns."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So one door shuts, and money walks in through another."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Like a shop barred from one mall that still lands a big investor. For a company like Shopee, it could mean more AI options to weigh, and more rules to watch."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Remember: about $15 billion, days after the US restriction on its AI."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Third, banks. JPMorgan, Bank of America and Morgan Stanley are restricting third-party AI agents. Per Axios, they found agents logging into customer accounts and sometimes acting beyond what users asked."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So you ask it to check your balance, and it does more?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Sometimes, yes. Executives say it is hard to tell authorized agents from rogue ones."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Why not just let the good ones through?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Because it is hard to tell them apart, so most banks are moving toward read-only access."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Read-only is like a window display. You can look, but you cannot touch."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Neat. For a company like ours, it could be a prompt to ask what agents should be allowed to do inside customer or seller accounts. Worth watching what rules others set."
+   },
+   {
+    "speaker": "Raj",
+    "text": "One thing to remember: most banks are moving toward read-only access, so agents look before they act."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Try this today. Got a project deadline that worries you? A tutorial shows how to use ChatGPT's data-analysis tool to run a Monte Carlo simulation on your project plan."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Monte Carlo sounds like a holiday. What is it actually?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "A method that re-runs your schedule thousands of times. You upload task estimates, each with a best, likely and worst-case duration."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So best case, likely case, worst case go in. What comes out?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "It can forecast a realistic finish date and flag which tasks carry the most schedule risk. Handy before your next planning meeting. Compare it with your own gut feel, and see which risky tasks surprise you."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Rapid fire. Barclays plans to cut about 5,000 roles, 5% of staff, citing AI among the tools behind a £1.1B savings target by 2027."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Getty Images filed for bankruptcy to restructure and go private, after its Shutterstock merger collapsed and AI-generated images ate into its stock-photo business."
+   },
+   {
+    "speaker": "Raj",
+    "text": "1Password launched a system letting AI agents sign into sites using stored passwords without seeing them. Users approve each sign-in first."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Canva launched Craft, its first in-house image model, which plans layouts before rendering and supports 55 languages, and it ranks 4th on a design leaderboard."
+   },
+   {
+    "speaker": "Mei",
+    "text": "So, back to where we began: OpenAI, reportedly nearing a $1.25 trillion valuation, with huge money flowing into AI."
+   },
+   {
+    "speaker": "Raj",
+    "text": "And banks reminding us that agents should earn trust before they act, even if that feels slow."
+   },
+   {
+    "speaker": "Mei",
+    "text": "The full digest with links is in the newsletter. Thanks for listening, and see you next time."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Finish your kopi, and have a good day."
+   }
+  ]
+ },
+ {
   "date": "2026-10-23",
   "title": "Claude Duet, PHP Flaws and OpenAI on Google",
   "pretty": "Fri 23 Oct 2026",
