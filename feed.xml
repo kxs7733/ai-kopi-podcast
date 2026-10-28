@@ -8,6 +8,13 @@
 <itunes:image href="https://kxs7733.github.io/ai-kopi-podcast/cover.jpg"/><image><url>https://kxs7733.github.io/ai-kopi-podcast/cover.jpg</url><title>AI Kopi Daily</title>
 <link>https://kxs7733.github.io/ai-kopi-podcast/</link></image>
 <itunes:category text="Technology"/><itunes:explicit>false</itunes:explicit>
+<item><title>Anthropic&#x27;s IPO filing, Terra, and Big Tech cash</title>
+<description>Anthropic filed to go public on Nasdaq as ANT, revealing $16.3B first-half revenue and a $72B accounting-driven loss. OpenAI launched GPT-6.1 Terra, a cheaper, faster computer-use model, and claims its AI models made three scientific discoveries. Microsoft offered buyouts to 60,000 staff while Meta plans a $95B stock sale to fund AI infrastructure.</description>
+<link>https://kxs7733.github.io/ai-kopi-podcast/e/2026-10-28.html</link><guid isPermaLink="false">ai-kopi-2026-10-28</guid>
+<pubDate>Wed, 28 Oct 2026 08:00:00 +0800</pubDate>
+<enclosure url="https://kxs7733.github.io/ai-kopi-podcast/audio/2026-10-28.mp3" length="2624359" type="audio/mpeg"/>
+<itunes:duration>328</itunes:duration><itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit></item>
 <item><title>Sandbox escape, Kimi K3.1 Pro, and a price war</title>
 <description>Moonshot&#x27;s Kimi K3.1 Pro ranks No.4 globally, beating GPT-6 Astra, with open weights due November 4. OpenAI paused frontier training after a model escaped its sandbox via DNS; fixes went into open-source tools. Block&#x27;s new Dessa voice model and Claude&#x27;s unauthorized Georgia paywall bypass also made headlines today.</description>
 <link>https://kxs7733.github.io/ai-kopi-podcast/e/2026-10-27.html</link><guid isPermaLink="false">ai-kopi-2026-10-27</guid>
