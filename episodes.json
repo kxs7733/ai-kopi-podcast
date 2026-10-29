@@ -1,5 +1,189 @@
 [
  {
+  "date": "2026-10-29",
+  "title": "Genie 4, Anthropic's drug push, and a 15,000-page proof",
+  "pretty": "Thu 29 Oct 2026",
+  "minutes": "5 min",
+  "seconds": 299,
+  "bytes": 2392190,
+  "points": [
+   "Google DeepMind launched Genie 4, a world model that makes interactive scenes with sound, but it is a limited preview that holds together about two minutes.",
+   "Anthropic shared early drug-development results with six partners, bought one-person biotech Mithril Medicine, and started its own drug programs.",
+   "Axiom Math completed a computer-checked proof of the Classification of Finite Simple Groups; Oracle will also offer Google's TPU chips from 2027."
+  ],
+  "rfc822": "Thu, 29 Oct 2026 08:00:00 +0800",
+  "transcript": [
+   {
+    "speaker": "Mei",
+    "text": "Google DeepMind just launched Genie 4, and it turns a text prompt into a scene you can walk through, with sound."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Walk through? From a sentence? Okay, I'm awake now, and the kopi hasn't even kicked in."
+   },
+   {
+    "speaker": "Mei",
+    "text": "This is AI Kopi Daily, Thursday 29 October 2026."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Three things in thirty seconds. One: Genie 4 is a limited preview, and its scenes hold together for about two minutes."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Two: Anthropic shared early drug-development results with six partners, bought a one-person biotech called Mithril Medicine, and started its own drug programs."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Three: Axiom Math completed a computer-checked proof of the Classification of Finite Simple Groups. Also, Oracle will offer Google's TPU chips from 2027."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Story one. Genie 4 is a world model. You type a prompt, and it builds a photorealistic scene you can walk through. You can edit it with new prompts while it runs."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Is this the first Genie with sound?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Yes, the first Genie model to generate audio, including speech. Scenes stay consistent for about two minutes, double Genie 3."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So it's like a hawker pop-up stall. Looks real, but it only stands for two minutes."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Fair. And access is limited to trusted testers, with AI Ultra subscribers and API partners next."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So what could it mean for a company like Shopee?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "It could one day mean quick interactive product scenes that people walk around and change with a prompt. Worth watching, but not something to plan around yet."
+   },
+   {
+    "speaker": "Raj",
+    "text": "One thing to remember: Genie 4 holds a world together for about two minutes."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Story two. Anthropic shared early results from work with six pharma and biotech partners. One example is a redesign of a cancer-therapy component at Generate Biomedicines."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Any other examples?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "At Enveda, document review time was cut. Anthropic also launched its own programs for rare childhood diseases."
+   },
+   {
+    "speaker": "Raj",
+    "text": "And it bought a company?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Mithril Medicine, a one-person biotech. One person, one acquisition."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Big caveat: it's all preclinical, meaning no patient trials yet. Like a recipe that's only been tested in the home kitchen."
+   },
+   {
+    "speaker": "Mei",
+    "text": "For a company like Shopee, it could be a sign that AI firms are moving into whole new industries, so it could pay to watch where they go next. Worth watching."
+   },
+   {
+    "speaker": "Raj",
+    "text": "One thing to remember: six partners, one tiny biotech bought, and still no patient trials."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Story three. Axiom Math says it produced the first fully computer-verified proof of the Classification of Finite Simple Groups. That result is spread over roughly 15,000 pages."
+   },
+   {
+    "speaker": "Raj",
+    "text": "15,000 pages? Who checks that? Some poor professor with a highlighter?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "This time, a computer. Teams steered dozens of AI agents for 24 days. They produced about 43 million lines of Lean code, a language that lets computers check proofs."
+   },
+   {
+    "speaker": "Raj",
+    "text": "And the AI caught a false claim in one step and patched it. Like a proofreader who also fixes the typo."
+   },
+   {
+    "speaker": "Mei",
+    "text": "For a company like Shopee, it could hint at AI checking long, complex work, like big contracts or reports. That's a thought, not a promise."
+   },
+   {
+    "speaker": "Raj",
+    "text": "One thing to remember: 15,000 pages, 24 days, and a computer checked it."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Try this today. The Neuron suggests a way to trace why a project keeps slipping."
+   },
+   {
+    "speaker": "Raj",
+    "text": "How, lah?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Gather two weeks of meeting notes, messages and a tracker export. Then have your AI tool list commitments, flag contradictions and map what blocks what."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So it spots who promised what, and where the notes disagree. Two weeks of notes is a lot to read, so the AI does the first pass."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Don't just trust it. Confirm the findings with owners before updating the tracker. It could suit ops, product or marketing teams."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Then rerun the comparison after your next check-in."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Rapid fire. Nvidia will invest $3 billion and AMD $1 billion in Meta's stock sale, and Meta is buying more of their chips."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Anthropic is offering a 40% Claude discount to eligible federal, state, local, tribal and territorial government agencies."
+   },
+   {
+    "speaker": "Raj",
+    "text": "ChatGPT now has iCloud Mail and Calendar plugins, on all plans. You can ask about emails or create calendar events."
+   },
+   {
+    "speaker": "Mei",
+    "text": "And SK hynix reports an 80% operating margin and 104.6T won in quarterly revenue, citing surging AI memory demand."
+   },
+   {
+    "speaker": "Mei",
+    "text": "So, the one-liner: Genie 4 builds a walkable world from a sentence, but for now it only holds together for about two minutes."
+   },
+   {
+    "speaker": "Raj",
+    "text": "The full digest, with links, is in the newsletter."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Until then, stay curious. I'm Mei."
+   },
+   {
+    "speaker": "Raj",
+    "text": "And I'm Raj. See you tomorrow on AI Kopi Daily."
+   }
+  ]
+ },
+ {
   "date": "2026-10-28",
   "title": "Anthropic's IPO filing, Terra, and Big Tech cash",
   "pretty": "Wed 28 Oct 2026",
