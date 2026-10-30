@@ -1,5 +1,169 @@
 [
  {
+  "date": "2026-10-30",
+  "title": "Gemini's Locked Door, Cheaper Coding, Kids' Chatbots",
+  "pretty": "Fri 30 Oct 2026",
+  "minutes": "5 min",
+  "seconds": 300,
+  "bytes": 2405144,
+  "points": [
+   "Google's Gemini 4 Carbon tops an independent AI ranking but is limited to select security defenders, and Alphabet shares fell after earnings.",
+   "Anthropic added six ready-made legal workflows to Claude, while GitHub's Copilot Fusion routes coding tasks to cheaper models to cut costs.",
+   "New York signed a law barring AI chatbots from human-like, romantic or explicit features with kids, backed by penalties of up to $25,000 per violation."
+  ],
+  "rfc822": "Fri, 30 Oct 2026 08:00:00 +0800",
+  "transcript": [
+   {
+    "speaker": "Mei",
+    "text": "Google's new model, Gemini 4 Carbon, now tops an independent AI ranking. But almost nobody can use it."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So the best student in school is not allowed out of the classroom?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Pretty much. This is AI Kopi Daily, Friday, 30 October 2026."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Let's go."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Three things today. One: Google's Gemini 4 Carbon tops an independent ranking, but only select security defenders can use it, and Alphabet shares fell after earnings."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Two: Anthropic added six ready-made legal workflows to Claude, and GitHub's Copilot Fusion sends coding tasks to cheaper models to cut costs."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Three: New York signed a law barring AI chatbots from human-like, romantic or explicit features with kids. Penalties go up to $25,000 per violation."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Let's start with Gemini 4 Carbon. Google built it for cybersecurity and long-running coding work. On the Artificial Analysis index it scores 59, ahead of Claude Opus 5.5 at 58 and GPT-6 Astra at 57."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So it's number one. Who gets to use it?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Only selected cyber defenders, through Google's Fairwind program. No date is set for wider release."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Like a master key handed only to the building's security team first."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Right. And the market was not impressed. Alphabet shares fell roughly 8% to 10% after hours, by The Neuron's count, and AI Secret says over 10%. That's even though Google Cloud revenue doubled to $30.7B. The finance chief said spending will rise significantly in 2027."
+   },
+   {
+    "speaker": "Raj",
+    "text": "For a team at Shopee, this could mean top models arrive in tiers, with security work first. Worth watching who gets access, and when. The one thing: the best model is not always one you can use."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Next, GitHub's Copilot Fusion. It sends each coding task to cheaper models first. It moves to stronger ones only when needed."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Like taking the MRT first, and grabbing a taxi only if you must."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Exactly. On the Artificial Analysis Coding Agent Index, its Max setting roughly matches Claude Code with Opus 5.5 while using half the tokens."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Half the tokens. So a smaller bill?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "GitHub's COO says early users see about 50% to 60% lower costs on complex work."
+   },
+   {
+    "speaker": "Raj",
+    "text": "For engineering teams at a company like Shopee, AI coding costs could become something to manage, not just accept. Worth watching if the savings hold up beyond early users. The one thing: cheap tool first, strong tool only when needed."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Third, New York. Governor Kathy Hochul signed a law on October 28. It bars chatbots from offering kids features like pretending to be human, claiming romantic relationships or producing sexual content."
+   },
+   {
+    "speaker": "Raj",
+    "text": "How do they know who's a kid?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "The limits apply to anyone not confirmed as an adult. So firms must offer several age-check methods."
+   },
+   {
+    "speaker": "Raj",
+    "text": "And if a company slips?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "The attorney general can seek penalties up to $25,000 per violation. Start dates are reported differently, so the details are worth checking."
+   },
+   {
+    "speaker": "Raj",
+    "text": "For a company like Shopee, this could hint at where chatbot rules may head, especially for any chat feature customers use. Worth watching. The one thing: if you can't confirm someone is an adult, the chatbot must play safe."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Try this today. Before a big task, make your chatbot interview you first."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Like a kopi uncle asking how you want it before he pours."
+   },
+   {
+    "speaker": "Mei",
+    "text": "The Neuron offers a version for any chatbot. State the task and what success looks like. Ask it to put all its questions in one batch. Then have it show a short plan and wait for your OK."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Task, questions, plan, OK. And if you use Cowork, it's a research preview, so limit shared folders."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Claude Enterprise now reports what team AI usage produced, covering spend, deliverables and friction, plus pooled budgets."
+   },
+   {
+    "speaker": "Raj",
+    "text": "OpenAI is pulling hundreds of staff into a war room for next week's US midterms, hunting for ChatGPT misuse."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Startup Particle released Particle-1, which uses about 45% fewer tokens on coding tasks with near-identical accuracy."
+   },
+   {
+    "speaker": "Raj",
+    "text": "And the US Justice Department questioned how Nvidia's $12.93B Hugging Face deal could affect AI competition. It is an inquiry, not an allegation."
+   },
+   {
+    "speaker": "Mei",
+    "text": "So, the one-line takeaway: the top AI model is not always one you can use."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Gemini 4 Carbon: top of the ranking, locked door."
+   },
+   {
+    "speaker": "Mei",
+    "text": "The full digest with links is in the newsletter. This was AI Kopi Daily."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Thanks for listening. See you next time."
+   }
+  ]
+ },
+ {
   "date": "2026-10-29",
   "title": "Genie 4, Anthropic's drug push, and a 15,000-page proof",
   "pretty": "Thu 29 Oct 2026",
