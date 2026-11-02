@@ -8,6 +8,13 @@
 <itunes:image href="https://kxs7733.github.io/ai-kopi-podcast/cover.jpg"/><image><url>https://kxs7733.github.io/ai-kopi-podcast/cover.jpg</url><title>AI Kopi Daily</title>
 <link>https://kxs7733.github.io/ai-kopi-podcast/</link></image>
 <itunes:category text="Technology"/><itunes:explicit>false</itunes:explicit>
+<item><title>Mistral Opens Large 4, Claude Reviews Itself</title>
+<description>Mistral released downloadable weights for its trillion-parameter Large 4 model, targeting self-hosted enterprise and cybersecurity use. NYT reports US intelligence found an alleged Chinese asset built close ties with Nvidia CEO Jensen Huang; nothing proven yet. Anthropic says Claude has been quietly reviewing its own chats since June to flag misuse, catching large-scale abuse cases.</description>
+<link>https://kxs7733.github.io/ai-kopi-podcast/e/2026-11-02.html</link><guid isPermaLink="false">ai-kopi-2026-11-02</guid>
+<pubDate>Mon, 02 Nov 2026 08:00:00 +0800</pubDate>
+<enclosure url="https://kxs7733.github.io/ai-kopi-podcast/audio/2026-11-02.mp3" length="2478904" type="audio/mpeg"/>
+<itunes:duration>309</itunes:duration><itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit></item>
 <item><title>Gemini&#x27;s Locked Door, Cheaper Coding, Kids&#x27; Chatbots</title>
 <description>Google&#x27;s Gemini 4 Carbon tops an independent AI ranking but is limited to select security defenders, and Alphabet shares fell after earnings. Anthropic added six ready-made legal workflows to Claude, while GitHub&#x27;s Copilot Fusion routes coding tasks to cheaper models to cut costs. New York signed a law barring AI chatbots from human-like, romantic or explicit features with kids, backed by penalties of up to $25,000 per violation.</description>
 <link>https://kxs7733.github.io/ai-kopi-podcast/e/2026-10-30.html</link><guid isPermaLink="false">ai-kopi-2026-10-30</guid>

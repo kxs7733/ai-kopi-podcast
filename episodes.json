@@ -1,5 +1,169 @@
 [
  {
+  "date": "2026-11-02",
+  "title": "Mistral Opens Large 4, Claude Reviews Itself",
+  "pretty": "Mon 2 Nov 2026",
+  "minutes": "5 min",
+  "seconds": 309,
+  "bytes": 2478904,
+  "points": [
+   "Mistral released downloadable weights for its trillion-parameter Large 4 model, targeting self-hosted enterprise and cybersecurity use.",
+   "NYT reports US intelligence found an alleged Chinese asset built close ties with Nvidia CEO Jensen Huang; nothing proven yet.",
+   "Anthropic says Claude has been quietly reviewing its own chats since June to flag misuse, catching large-scale abuse cases."
+  ],
+  "rfc822": "Mon, 02 Nov 2026 08:00:00 +0800",
+  "transcript": [
+   {
+    "speaker": "Mei",
+    "text": "A trillion-parameter model, and Mistral just released the weights so companies can run it on their own servers."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Hold on. A model that big, on a company's own machines? That is a big deal lah."
+   },
+   {
+    "speaker": "Mei",
+    "text": "This is AI Kopi Daily, Monday 2 November 2026."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Three things today. First, Mistral released downloadable weights for its trillion-parameter Large 4 model, aimed at self-hosted enterprise and cybersecurity use."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Second, the New York Times reports US intelligence found an alleged Chinese asset who built close ties with Nvidia CEO Jensen Huang. Nothing is proven yet."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Third, Anthropic says its assistant Claude has been quietly reviewing its own chats since June, to flag misuse."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Story one. Mistral released open weights for Large 4, a trillion-parameter model it calls Le Chonk. Weights are the trained model itself. Instead of calling a cloud API, which means renting access over the internet, a company can run it on its own servers."
+   },
+   {
+    "speaker": "Raj",
+    "text": "A trillion sounds heavy. Does every question wake up the whole thing?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "It activates only about 49 billion parameters per query. That is the number to hold onto. Mistral claims leading open-weight results on coding and cybersecurity benchmarks. A stronger cyber-focused variant stays restricted to vetted partners."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Think of it like owning the recipe instead of ordering delivery. You cook in your own kitchen, on your own stove."
+   },
+   {
+    "speaker": "Mei",
+    "text": "For a company like Shopee, it could mean more choice about where sensitive data is processed. Worth watching."
+   },
+   {
+    "speaker": "Raj",
+    "text": "One thing to remember: open weights means you can run it yourself. Large 4 is the one to watch, nickname Le Chonk and all."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Story two. The New York Times reports US intelligence found a Singapore-based data-center executive who built close ties with Nvidia CEO Jensen Huang. The executive was allegedly passing information to Beijing."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Heavy claim. And this one lands close to home, since the executive is Singapore-based. What is actually established?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Very little so far. The report says Trump was briefed about a year ago. Nvidia calls the meetings routine business. Nothing about what, if anything, was shared has been proven."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So it is like a rumour at the hawker centre. Interesting, but you wait for the facts before you pick a side."
+   },
+   {
+    "speaker": "Mei",
+    "text": "For a company like Shopee, it could be a reminder that AI hardware partnerships may draw close attention. Worth watching."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Remember this: it is an allegation, not a finding. Nothing about what was shared is proven, so hold your judgment."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Story three. Anthropic says Claude has been quietly reviewing its own conversations since June. It rates each one for potential harm, so cases can be prioritized for human review."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Has it worked?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "It helped surface over 100,000 child-abuse flags from one API customer, plus a romance-scam operation. But in red-team tests, where testers play the attacker, it only modestly reduced successful attacks."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So it is like a security guard watching the CCTV. He spots trouble and calls a person, but he does not stop every break-in."
+   },
+   {
+    "speaker": "Mei",
+    "text": "That is why humans stay in the loop. The system helps rank cases so reviewers know where to look first."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Over 100,000 flags from one customer. For an online marketplace, that could hint at how scam and abuse spotting might work at scale. Worth watching."
+   },
+   {
+    "speaker": "Mei",
+    "text": "The takeaway: the AI sorts the cases, humans make the call."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Try this today. The Rundown has a guide on ElevenLabs Audio Tags, which help Eleven v4 voiceovers sound more natural."
+   },
+   {
+    "speaker": "Raj",
+    "text": "I am not an audio person. Where do I start?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Save a plain version of your script first. Then make a tagged version and compare the two. Change just one cue at a time."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Like seasoning soup. One pinch, then taste. You can even test a two-speaker dialogue, as the guide does."
+   },
+   {
+    "speaker": "Mei",
+    "text": "A short script for a product update could be a good first test. Compare, then keep whichever sounds better."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Amazon's AWS posted its fastest sales growth in nearly five years, up 39 percent to $46 billion, but free cash flow flipped from a $14.8 billion inflow to a $42.4 billion outflow."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Meta's Style Sketch builds virtual wardrobes and outfit try-ons from Instagram photos, launching first in Singapore, Indonesia and Thailand."
+   },
+   {
+    "speaker": "Mei",
+    "text": "OpenAI now gives Pro and Business ChatGPT subscribers up to $500 a month in free API credits."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Cohere announced a Series E targeting up to $5 billion, citing 165 percent year-over-year revenue growth."
+   },
+   {
+    "speaker": "Mei",
+    "text": "So the one-liner: Mistral just put a trillion-parameter model into companies' own hands."
+   },
+   {
+    "speaker": "Raj",
+    "text": "And the Nvidia story reminds us: allegation, not proof. The full digest with links is in the newsletter."
+   },
+   {
+    "speaker": "Mei",
+    "text": "That is it for today. Finish your kopi, and see you tomorrow."
+   }
+  ]
+ },
+ {
   "date": "2026-10-30",
   "title": "Gemini's Locked Door, Cheaper Coding, Kids' Chatbots",
   "pretty": "Fri 30 Oct 2026",
