@@ -1,5 +1,173 @@
 [
  {
+  "date": "2026-11-03",
+  "title": "Haiku from Orbit, Votes on Earth",
+  "pretty": "Tue 3 Nov 2026",
+  "minutes": "5 min",
+  "seconds": 295,
+  "bytes": 2365417,
+  "points": [
+   "Google's Project Suncatcher satellite ran its first AI prompt in orbit, returning a haiku; costs and orbital crowding remain open questions.",
+   "Data centers are on ballots in about 20 US communities this week, as OpenAI reportedly plans to rebrand them.",
+   "Anthropic renamed its Max plans, removed the 5-hour limit for verified Ultra users, and will watermark text from its models."
+  ],
+  "rfc822": "Tue, 03 Nov 2026 08:00:00 +0800",
+  "transcript": [
+   {
+    "speaker": "Mei",
+    "text": "Google just got an AI to write a haiku from space. A real satellite, in orbit."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So the poetry is officially out of this world. Who's paying for the rocket?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "We'll get there. This is AI Kopi Daily, Tuesday, 3 November 2026."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Three things in thirty seconds. One: Google's Project Suncatcher satellite ran its first AI prompt in orbit and returned a haiku. Costs and orbital crowding remain open questions."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Two: data centers are on ballots in about 20 US communities this week, as OpenAI reportedly plans to rebrand them."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Three: Anthropic renamed its Max plans, removed the 5-hour limit for verified Ultra users, and will watermark text from its models."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Let's start in orbit. Google's Project Suncatcher prototype ran the Gemma 4 model on a data-center-class chip in space, then sent a haiku back via Svalbard."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Impressive. But how much computer is actually up there?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Four chips, but the craft can run only one, in roughly 20-minute bursts. If the chips pass radiation and heat tests, two more satellites will launch in 2027 to test laser links."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So it's a hawker stall with four stoves, and only one allowed on, 20 minutes at a time."
+   },
+   {
+    "speaker": "Mei",
+    "text": "That's the idea, lah. And Google's energy chief says space data centers can cost up to 100 times more than Earth ones. Experts also worry about crowded orbits, debris and conflict."
+   },
+   {
+    "speaker": "Raj",
+    "text": "For a company like Shopee, this could be a faraway signal about where computing power comes from, and what it costs. Worth watching, not budgeting for. The one thing: it worked, but the cost question is still open."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Back on Earth. Roughly 20 US communities are voting on data center bans or pauses in this week's midterms."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So voters get a say on the big building next door."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Yes. OpenAI reportedly plans to rebrand the sites as \"AI compute campuses\" and pitch them as local job creators. Some Democrats want a federal freeze on new data centers."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Same building, new signboard. Like renaming a factory a production campus."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Could be. For a company like Shopee, it could mean computing power gets tangled in local politics, which might one day touch the cost of the AI tools teams use. Worth watching."
+   },
+   {
+    "speaker": "Raj",
+    "text": "The one thing: where AI lives is now a question on a ballot."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Now a plan change at Anthropic. Max 5x is now just Max, at $100 a month. Max 20x becomes Ultra, at $200 a month. Same prices."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So what actually changes?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Verified Ultra accounts no longer face the 5-hour usage limit. Weekly limits stay. Newer accounts keep a temporary limit until verified."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Like tapping through the MRT gantry. Once you're checked, you walk straight in, but the weekly limit still applies."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Anthropic also says it will watermark text from its models, to comply with EU rules. SpaceX says Grok API text will be watermarked from November 7."
+   },
+   {
+    "speaker": "Raj",
+    "text": "For teams at Shopee using these tools, it could mean checking which plan heavy users are on. Worth a look. The one thing: same price, fewer interruptions for verified Ultra."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Try this today. Claude has a feature called Artifacts that can build a small internal tool."
+   },
+   {
+    "speaker": "Raj",
+    "text": "For people who don't code?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "It's a step-by-step guide. Pick a repetitive task. Upload a real example. Then prompt for upload, process and export features."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Then test it with real inputs, and share it with coworkers. So the chore you hate could become one button."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Start small. One task, one real example, then see how it goes."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Rapid fire. AI Secret reports OpenAI sought $30 billion at over $1.4 trillion, but had about $11 billion committed by the deadline."
+   },
+   {
+    "speaker": "Raj",
+    "text": "It cut the target to $20 billion at $1.25 trillion, and is turning to family offices and wealthy individuals."
+   },
+   {
+    "speaker": "Mei",
+    "text": "DoorDash has received only \"several hundred\" orders from AI agents, against 3 million daily deliveries."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Apple will bring Apple Intelligence to iPhones in China using Alibaba's Qwen, with a public release in December."
+   },
+   {
+    "speaker": "Mei",
+    "text": "And Reddit's CEO says AI Mode no longer sends traffic. Search referrals fell over 1 million a week, and the site will require sign-in."
+   },
+   {
+    "speaker": "Mei",
+    "text": "So, from a haiku in orbit to votes on the ground, AI's physical footprint was today's story."
+   },
+   {
+    "speaker": "Raj",
+    "text": "One line to remember: AI wrote a poem in space, but the bill and the neighbours are still unsettled."
+   },
+   {
+    "speaker": "Mei",
+    "text": "The full digest with links is in the newsletter. Thanks for listening."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Have a good day, everyone."
+   }
+  ]
+ },
+ {
   "date": "2026-11-02",
   "title": "Mistral Opens Large 4, Claude Reviews Itself",
   "pretty": "Mon 2 Nov 2026",

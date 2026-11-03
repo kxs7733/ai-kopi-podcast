@@ -8,6 +8,13 @@
 <itunes:image href="https://kxs7733.github.io/ai-kopi-podcast/cover.jpg"/><image><url>https://kxs7733.github.io/ai-kopi-podcast/cover.jpg</url><title>AI Kopi Daily</title>
 <link>https://kxs7733.github.io/ai-kopi-podcast/</link></image>
 <itunes:category text="Technology"/><itunes:explicit>false</itunes:explicit>
+<item><title>Haiku from Orbit, Votes on Earth</title>
+<description>Google&#x27;s Project Suncatcher satellite ran its first AI prompt in orbit, returning a haiku; costs and orbital crowding remain open questions. Data centers are on ballots in about 20 US communities this week, as OpenAI reportedly plans to rebrand them. Anthropic renamed its Max plans, removed the 5-hour limit for verified Ultra users, and will watermark text from its models.</description>
+<link>https://kxs7733.github.io/ai-kopi-podcast/e/2026-11-03.html</link><guid isPermaLink="false">ai-kopi-2026-11-03</guid>
+<pubDate>Tue, 03 Nov 2026 08:00:00 +0800</pubDate>
+<enclosure url="https://kxs7733.github.io/ai-kopi-podcast/audio/2026-11-03.mp3" length="2365417" type="audio/mpeg"/>
+<itunes:duration>295</itunes:duration><itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit></item>
 <item><title>Mistral Opens Large 4, Claude Reviews Itself</title>
 <description>Mistral released downloadable weights for its trillion-parameter Large 4 model, targeting self-hosted enterprise and cybersecurity use. NYT reports US intelligence found an alleged Chinese asset built close ties with Nvidia CEO Jensen Huang; nothing proven yet. Anthropic says Claude has been quietly reviewing its own chats since June to flag misuse, catching large-scale abuse cases.</description>
 <link>https://kxs7733.github.io/ai-kopi-podcast/e/2026-11-02.html</link><guid isPermaLink="false">ai-kopi-2026-11-02</guid>
