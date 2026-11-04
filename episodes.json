@@ -1,5 +1,193 @@
 [
  {
+  "date": "2026-11-04",
+  "title": "Anthropic's $895B bill, and AI editing AI",
+  "pretty": "Wed 4 Nov 2026",
+  "minutes": "5 min",
+  "seconds": 303,
+  "bytes": 2428328,
+  "points": [
+   "Anthropic's amended IPO filing shows about $895B in spending commitments, alongside fast revenue growth and large losses.",
+   "MIT researchers had OpenAI's GPT-6 Astra edit a small model's weights, lifting its math score from 7.9% to 48.1%.",
+   "Musk said Grok Bot cost too much to serve, and OpenAI launched a plan to cut data center power use at peak times."
+  ],
+  "rfc822": "Wed, 04 Nov 2026 08:00:00 +0800",
+  "transcript": [
+   {
+    "speaker": "Mei",
+    "text": "Anthropic's amended IPO filing lists about $895 billion in spending commitments."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Sorry, billion with a B? That's one very big kopi bill lah."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Yes, and it sits beside fast revenue growth and large losses."
+   },
+   {
+    "speaker": "Mei",
+    "text": "This is AI Kopi Daily, for Wednesday 4 November 2026."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Three things today. One: Anthropic's amended IPO filing shows about $895 billion in commitments, alongside fast revenue growth and large losses."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Two: MIT researchers had OpenAI's GPT-6 Astra edit a small model's weights, lifting its math score from 7.9% to 48.1%."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Three: Musk said Grok Bot cost too much to serve, and OpenAI launched a plan to cut data center power use at peak times."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Story one. Anthropic's updated IPO filing lists about $895 billion in compute and infrastructure commitments. Roughly $448 billion of that is due by the end of 2030."
+   },
+   {
+    "speaker": "Raj",
+    "text": "And what's coming in?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Third-quarter revenue was about $17 billion, with a $23.3 billion net loss. TLDR AI puts the net loss for the first nine months at $104 billion."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So it's like signing a lease on a huge hawker centre before the crowds arrive. Revenue is growing fast, but the losses are big too."
+   },
+   {
+    "speaker": "Mei",
+    "text": "The filing also says upcoming models could imminently cross its safety line for AI-driven progress."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Imminently. That's a strong word. So what does it mean for us?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "For a company like Shopee, it could be worth watching how this shapes the price of AI tools. That is a thought, not a fact."
+   },
+   {
+    "speaker": "Raj",
+    "text": "One thing to remember: huge commitments, huge losses, fast growth."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Story two. MIT researchers had OpenAI's GPT-6 Astra rewrite 0.016% of a small Qwen model's weights. Those are the numbers that govern its behaviour."
+   },
+   {
+    "speaker": "Raj",
+    "text": "And did it work?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Its math score rose from 7.9% to 48.1%, without retraining. But it did little for Gemma 3, and the work is not yet peer reviewed."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So it's like a tutor who doesn't make you redo the school year, just fixes a few key habits. Then the grades jump."
+   },
+   {
+    "speaker": "Mei",
+    "text": "For teams at a company like Shopee, it could point to cheaper ways to improve small models. Worth watching, but it is early."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Remember this: a tiny edit, a big jump, but one model so far, and not yet peer reviewed."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Story three. Users hit weekly usage caps on Grok Bot. Elon Musk said its serving cost was unsustainably high relative to revenue."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So is anyone paying?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "AI Secret reports 800,000 paying weekly users, with plans up to $200 a month."
+   },
+   {
+    "speaker": "Raj",
+    "text": "And the cost?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Superhuman AI notes Musk gave no specifics."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Like a buffet where everyone keeps going back for seconds. Sooner or later, the owner limits the plates."
+   },
+   {
+    "speaker": "Mei",
+    "text": "For people at a company like Shopee, it could be worth watching whether AI tools bring tighter limits or higher prices."
+   },
+   {
+    "speaker": "Raj",
+    "text": "The takeaway: serving AI costs real money, and caps may follow."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Try this today. Superhuman AI has a tutorial for building a daily brand pulse from X with Grok Bot."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Okay, what do I actually do?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Create a Bot that tracks your brand, products and competitors on X. Test it once, then prune the noisy keywords."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Then save it as a Skill and schedule a morning summary of mentions, trends, risks and opportunities."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Run it once first and prune before you schedule anything, so the summary isn't full of noise. Marketing teams could try it today with their own brand and competitor names."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Test once, prune, then schedule. Basically a morning briefing that writes itself."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Quick ones now, one sentence each."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Anthropic added message threads to its Claude API, the connection apps use to reach Claude, so apps send only new messages, and median time to first token is about 35% lower for requests of 500K to 1M tokens."
+   },
+   {
+    "speaker": "Mei",
+    "text": "OpenAI plans to merge the Chat and Work tabs in ChatGPT, after testing with select users."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Proton's CEO dropped plans to re-interview nearly all staff about their AI use after pushback, as staff feared low AI use could cost jobs, according to 404 Media."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Marvell will buy Lumentum for $115 billion in an all-stock deal, described as one of tech's largest takeovers."
+   },
+   {
+    "speaker": "Mei",
+    "text": "So, back to that $895 billion. Huge commitments, huge losses, fast growth. That is the one line to take with you."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Billion with a B, I'll remember. And the full digest, with links, is in the newsletter."
+   },
+   {
+    "speaker": "Mei",
+    "text": "This is AI Kopi Daily. Thanks for listening, and see you tomorrow."
+   }
+  ]
+ },
+ {
   "date": "2026-11-03",
   "title": "Haiku from Orbit, Votes on Earth",
   "pretty": "Tue 3 Nov 2026",
