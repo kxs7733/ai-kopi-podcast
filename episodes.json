@@ -1,5 +1,177 @@
 [
  {
+  "date": "2026-11-05",
+  "title": "Siri opens up, Google's school switch, ChatGPT's reach",
+  "pretty": "Thu 5 Nov 2026",
+  "minutes": "5 min",
+  "seconds": 278,
+  "bytes": 2228348,
+  "points": [
+   "Apple opened Siri AI to all developers in betas; customers wait until App Store submissions start in spring.",
+   "Google will switch Search and Gemini off by default for school student accounts, tying Search to AI settings.",
+   "OpenAI says ChatGPT handles about a fifth of Google's search queries and has 1.2 billion weekly users."
+  ],
+  "rfc822": "Thu, 05 Nov 2026 08:00:00 +0800",
+  "transcript": [
+   {
+    "speaker": "Mei",
+    "text": "Apple has opened Siri AI to every app developer, so your everyday apps could soon plug straight into your phone's assistant."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So Siri might finally do more than set my timer."
+   },
+   {
+    "speaker": "Mei",
+    "text": "This is AI Kopi Daily, Thursday 5 November 2026."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Three things in thirty seconds. One: Apple opened Siri AI to all developers in betas. Customers wait until App Store submissions start in spring."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Two: Google will switch Search and Gemini off by default for school student accounts, tying Search to AI settings."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Three: OpenAI says ChatGPT handles about a fifth of Google's search queries, and has 1.2 billion weekly users."
+   },
+   {
+    "speaker": "Mei",
+    "text": "First, Apple. Its latest betas include a developer preview of Siri AI. Any app can add its own actions, and multi-step skills, to the assistant."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So can I use it tomorrow?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "No. Developers can only test internally for now. App Store submissions start in spring. It is also unavailable in the EU and for under-13s."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Think of a food court with one stall called Siri. Now every app can open its own stall, and Siri takes your order for all of them."
+   },
+   {
+    "speaker": "Mei",
+    "text": "For a company like Shopee, it could be worth watching whether shoppers one day ask their phone to do things inside an app, without opening it. Developers get to build first. Customers get the result later."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So the one thing to remember: customers wait until spring."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Next, Google. Gemini, Gemini Notebook and Search will be off by default for school student accounts until administrators enable them."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Search too? Why would Search switch off?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Google's education vice president said Search and AI are deeply integrated, so AI-free schools would lose Search."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Critics pushed back, right?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Yes, including Lina Khan. Google says schools stay in control."
+   },
+   {
+    "speaker": "Raj",
+    "text": "It is like a combo meal. If you refuse the drink, the fries go too."
+   },
+   {
+    "speaker": "Mei",
+    "text": "For teams building products, it could be worth watching how AI gets tied to basic tools, and who holds the off switch. The question for any company is whether turning off one feature quietly switches off another."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Remember this: for those schools, no AI could mean no Search."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Third, OpenAI. A product lead said ChatGPT handles roughly one fifth as many queries as Google."
+   },
+   {
+    "speaker": "Raj",
+    "text": "That is a serious dent. What about users?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Weekly users rose from 1 billion to 1.2 billion in about two months. Voice mode alone has 250 million weekly users."
+   },
+   {
+    "speaker": "Raj",
+    "text": "That is like a new stall near the MRT that already draws a fifth of the biggest stall's crowd."
+   },
+   {
+    "speaker": "Mei",
+    "text": "He also said most people do not seem to mind ads. For marketing teams, it could be worth watching whether shoppers start searches in a chatbot. For Shopee, that could mean customers discover products through a chatbot first."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So the number to remember is 1.2 billion weekly users. Quite a crowd, lah."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Now, try this. A Rundown guide shows how to build a small Runway app that turns one product photo into three studio shots: coral, sunlit and blue-lit."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So a seller snaps one photo and gets three looks. Any catch?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Start from the original photo each time. That way flaws do not carry over from one shot to the next."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So today, pick one product, make all three shots, and put them side by side. See which one you would click on."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Then try a second product the same way, and note which look you prefer."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Rapid fire time. GitHub says agents started 40% of pull requests in September, up from 17% six months earlier. Pull requests are proposed code changes."
+   },
+   {
+    "speaker": "Raj",
+    "text": "CrowdStrike launched an AI Kill Switch that cuts a rogue agent's link to its model. A human admin must trigger it, and each use is logged."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Menlo Ventures says enterprise AI spending rose fivefold in a year, to $177 billion. It measures spending, not returns."
+   },
+   {
+    "speaker": "Raj",
+    "text": "And OpenAI now offers up to $172,000 per critical security find."
+   },
+   {
+    "speaker": "Mei",
+    "text": "So, back to where we began: Siri AI is open to developers, but customers wait until spring."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Open doors today, real customers in spring."
+   },
+   {
+    "speaker": "Mei",
+    "text": "The full digest with links is in the newsletter."
+   },
+   {
+    "speaker": "Raj",
+    "text": "That was AI Kopi Daily. Catch you tomorrow, and finish your kopi."
+   }
+  ]
+ },
+ {
   "date": "2026-11-04",
   "title": "Anthropic's $895B bill, and AI editing AI",
   "pretty": "Wed 4 Nov 2026",

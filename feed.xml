@@ -8,6 +8,13 @@
 <itunes:image href="https://kxs7733.github.io/ai-kopi-podcast/cover.jpg"/><image><url>https://kxs7733.github.io/ai-kopi-podcast/cover.jpg</url><title>AI Kopi Daily</title>
 <link>https://kxs7733.github.io/ai-kopi-podcast/</link></image>
 <itunes:category text="Technology"/><itunes:explicit>false</itunes:explicit>
+<item><title>Siri opens up, Google&#x27;s school switch, ChatGPT&#x27;s reach</title>
+<description>Apple opened Siri AI to all developers in betas; customers wait until App Store submissions start in spring. Google will switch Search and Gemini off by default for school student accounts, tying Search to AI settings. OpenAI says ChatGPT handles about a fifth of Google&#x27;s search queries and has 1.2 billion weekly users.</description>
+<link>https://kxs7733.github.io/ai-kopi-podcast/e/2026-11-05.html</link><guid isPermaLink="false">ai-kopi-2026-11-05</guid>
+<pubDate>Thu, 05 Nov 2026 08:00:00 +0800</pubDate>
+<enclosure url="https://kxs7733.github.io/ai-kopi-podcast/audio/2026-11-05.mp3" length="2228348" type="audio/mpeg"/>
+<itunes:duration>278</itunes:duration><itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit></item>
 <item><title>Anthropic&#x27;s $895B bill, and AI editing AI</title>
 <description>Anthropic&#x27;s amended IPO filing shows about $895B in spending commitments, alongside fast revenue growth and large losses. MIT researchers had OpenAI&#x27;s GPT-6 Astra edit a small model&#x27;s weights, lifting its math score from 7.9% to 48.1%. Musk said Grok Bot cost too much to serve, and OpenAI launched a plan to cut data center power use at peak times.</description>
 <link>https://kxs7733.github.io/ai-kopi-podcast/e/2026-11-04.html</link><guid isPermaLink="false">ai-kopi-2026-11-04</guid>
