@@ -8,6 +8,13 @@
 <itunes:image href="https://kxs7733.github.io/ai-kopi-podcast/cover.jpg"/><image><url>https://kxs7733.github.io/ai-kopi-podcast/cover.jpg</url><title>AI Kopi Daily</title>
 <link>https://kxs7733.github.io/ai-kopi-podcast/</link></image>
 <itunes:category text="Technology"/><itunes:explicit>false</itunes:explicit>
+<item><title>Data Centre Votes, GIFs and AI Coding Deals</title>
+<description>OpenAI launched Images 2.6 with GIF creation and 50% faster image generation in ChatGPT, Codex and its API. US midterm voters backed limits on data centers in nearly every local vote counted so far, putting AI buildout plans under pressure. OpenAI is buying Pierre Computer and Meta bought Conductor, as both push deeper into AI coding tools.</description>
+<link>https://kxs7733.github.io/ai-kopi-podcast/e/2026-11-06.html</link><guid isPermaLink="false">ai-kopi-2026-11-06</guid>
+<pubDate>Fri, 06 Nov 2026 08:00:00 +0800</pubDate>
+<enclosure url="https://kxs7733.github.io/ai-kopi-podcast/audio/2026-11-06.mp3" length="2408477" type="audio/mpeg"/>
+<itunes:duration>301</itunes:duration><itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit></item>
 <item><title>Siri opens up, Google&#x27;s school switch, ChatGPT&#x27;s reach</title>
 <description>Apple opened Siri AI to all developers in betas; customers wait until App Store submissions start in spring. Google will switch Search and Gemini off by default for school student accounts, tying Search to AI settings. OpenAI says ChatGPT handles about a fifth of Google&#x27;s search queries and has 1.2 billion weekly users.</description>
 <link>https://kxs7733.github.io/ai-kopi-podcast/e/2026-11-05.html</link><guid isPermaLink="false">ai-kopi-2026-11-05</guid>

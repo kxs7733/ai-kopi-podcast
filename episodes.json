@@ -1,5 +1,205 @@
 [
  {
+  "date": "2026-11-06",
+  "title": "Data Centre Votes, GIFs and AI Coding Deals",
+  "pretty": "Fri 6 Nov 2026",
+  "minutes": "5 min",
+  "seconds": 301,
+  "bytes": 2408477,
+  "points": [
+   "OpenAI launched Images 2.6 with GIF creation and 50% faster image generation in ChatGPT, Codex and its API.",
+   "US midterm voters backed limits on data centers in nearly every local vote counted so far, putting AI buildout plans under pressure.",
+   "OpenAI is buying Pierre Computer and Meta bought Conductor, as both push deeper into AI coding tools."
+  ],
+  "rfc822": "Fri, 06 Nov 2026 08:00:00 +0800",
+  "transcript": [
+   {
+    "speaker": "Mei",
+    "text": "Mei: US voters just backed limits on data centers in 38 of 39 fully counted local votes, according to trackers."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So the cloud has a neighbour problem."
+   },
+   {
+    "speaker": "Mei",
+    "text": "This is AI Kopi Daily, Friday 6 November 2026."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Three things in 30 seconds. One: OpenAI launched Images 2.6, with GIF creation and 50% faster image generation in ChatGPT, Codex and its API."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Two: US midterm voters backed limits on data centers in nearly every local vote counted so far. That puts AI buildout plans under pressure."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Three: OpenAI is buying Pierre Computer, and Meta bought Conductor. Both are pushing deeper into AI coding tools."
+   },
+   {
+    "speaker": "Mei",
+    "text": "First, the vote. Local measures restricting data centers won 38 of 39 fully counted votes, according to trackers. An NBC exit poll found 76% of voters would oppose one in their community."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Is that just a few loud neighbours?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Doesn't look like it. Goldman Sachs reportedly sees 45% of planned US capacity at risk of temporary freezes. And Texas's governor-elect campaigned on a halt."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Temporary freezes, so not cancelled for good?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "That is how it is reported. Think of a new hawker centre. Everyone loves the food, but nobody wants the exhaust fan outside their window."
+   },
+   {
+    "speaker": "Raj",
+    "text": "And for a company like Shopee?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "The computing power behind AI tools could get tighter or pricier. That is worth watching."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So the one thing to remember: AI needs buildings, and the neighbours get a vote."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Second, OpenAI launched Images 2.6. It runs about 50% faster, and it can turn a prompt or a photo into a looping GIF. It is in ChatGPT, Codex and its API."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Can you tweak the GIF, or is it take it or leave it?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "You can edit the speed and the frames. Users can also save reference pictures to keep characters consistent."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So the mascot looks the same on every poster, instead of getting a new face each time."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Exactly. Developers get two API models, which are ways to plug it into their own tools. Flare is for speed, and Sunburst is for detail."
+   },
+   {
+    "speaker": "Raj",
+    "text": "And for people at Shopee?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Marketing teams could produce campaign visuals and short animated banners faster. That is worth watching."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Remember: faster images, GIFs, and a mascot that stays consistent."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Third, a coding tools shopping spree. OpenAI agreed to buy Pierre Computer Company, the startup behind code review tools in Codex."
+   },
+   {
+    "speaker": "Raj",
+    "text": "And Meta?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Meta bought Conductor. Its software lets developers run several AI coding agents at once, each in a separate workspace. The Neuron reports its hosted service shuts down on November 20."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So it is one head chef running several kitchens at the same time."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Nice. OpenAI also plans to add Pierre's Code Storage service to Codex. That is a step toward the territory of code-hosting platforms."
+   },
+   {
+    "speaker": "Raj",
+    "text": "What should a listener at Shopee take from that?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Engineers' coding tools could change fast, as big players chase the whole workbench. Worth watching."
+   },
+   {
+    "speaker": "Raj",
+    "text": "One line: the big names are buying their way into AI coding."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Try this today. Before you automate a task, run a break-even check. The Neuron suggests it."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Break-even, like a shop deciding whether a new machine pays for itself?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Yes. First, time one manual run. Then estimate the setup time, and the review time for each run. That tells you how many repeats it takes to pay back."
+   },
+   {
+    "speaker": "Raj",
+    "text": "And if the sums are unclear?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "There is a prompt that asks a chatbot to recommend automating, assisting or keeping the task manual. Paste in your numbers and see what it says."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Good reality check: Uber saw only four agent-booked rides in Halloween week. Not everything needs automating."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Rapid fire. Moonshot AI published the downloadable weights of Kimi K3.1 Pro, which reads text and images."
+   },
+   {
+    "speaker": "Raj",
+    "text": "The weights total about 1.56 terabytes, so running it locally needs serious hardware."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Pangram Image 1.0 detects AI images and video, and shows on a heatmap where the AI appears."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Oracle scrapped a $7B deal to lease Tencent AI chips after US objections."
+   },
+   {
+    "speaker": "Mei",
+    "text": "And Apple reportedly cut some engineers' daily AI limits to save cost."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Grok Bot now makes phone calls for paid users, who stay legally responsible for each call."
+   },
+   {
+    "speaker": "Mei",
+    "text": "So, back to where we started. US voters backed limits on data centers in nearly every local vote counted so far."
+   },
+   {
+    "speaker": "Raj",
+    "text": "AI needs buildings, and the neighbours get a vote."
+   },
+   {
+    "speaker": "Mei",
+    "text": "The full digest with links is in the newsletter."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Thanks for listening, and enjoy your kopi, lah."
+   }
+  ]
+ },
+ {
   "date": "2026-11-05",
   "title": "Siri opens up, Google's school switch, ChatGPT's reach",
   "pretty": "Thu 5 Nov 2026",
