@@ -1,5 +1,185 @@
 [
  {
+  "date": "2026-11-10",
+  "title": "Nvidia's probe, a quantum proof, OpenAI's raise",
+  "pretty": "Tue 10 Nov 2026",
+  "minutes": "5 min",
+  "seconds": 305,
+  "bytes": 2441919,
+  "points": [
+   "Nvidia's board opened an independent probe after CEO Jensen Huang admitted an affair with an executive US intelligence suspects of spying for China.",
+   "A startup says an unreleased Anthropic model proved a quantum computing conjecture open since 2008; a proof checker accepted it.",
+   "OpenAI reportedly raised about $11B at a $1.25T valuation, while US midterm results put data center plans under pressure."
+  ],
+  "rfc822": "Tue, 10 Nov 2026 08:00:00 +0800",
+  "transcript": [
+   {
+    "speaker": "Mei",
+    "text": "Nvidia's board has opened an independent probe into its own CEO, Jensen Huang, after he admitted an affair with an executive US intelligence suspects of spying for China."
+   },
+   {
+    "speaker": "Raj",
+    "text": "That is not the headline I wanted with my kopi."
+   },
+   {
+    "speaker": "Mei",
+    "text": "This is AI Kopi Daily, for Tuesday 10 November 2026."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Three things in thirty seconds. One: Nvidia's board ordered an independent probe of Huang over the affair."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Two: a startup says an unreleased Anthropic model proved a quantum computing conjecture open since 2008. A proof checker accepted it."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Three: OpenAI reportedly raised about $11B at a $1.25T valuation. And US midterm results put data center plans under pressure."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Story one, Nvidia. Huang told staff he had an affair with Alice Huang, a Megaspeed executive. US intelligence suspects her of spying for China. China denies the claims."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So did secrets leak?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Nvidia's board ordered an independent review. It sees no reason to think secrets were compromised. Congress wants a closed-door briefing, but sources give different dates."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Why does the word independent matter?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Because it suggests the board wants the review to stand apart from the CEO himself."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Like a hawker stall whose supplier is under suspicion. The food may be fine, but customers still want someone to inspect the kitchen."
+   },
+   {
+    "speaker": "Mei",
+    "text": "For a company like Shopee, it could be worth watching how fast a partner's leadership trouble becomes a trust question for everyone who works with them."
+   },
+   {
+    "speaker": "Raj",
+    "text": "One thing to remember: an outside review is under way, and the board says it sees no sign secrets were compromised."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Story two, quantum computing. A startup called Physical Superintelligence says its research system, running a non-public Anthropic model, proved the Aaronson-Ambainis conjecture. That question had been open since 2008."
+   },
+   {
+    "speaker": "Raj",
+    "text": "And we trust a startup's word because?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Because of Lean, a tool that checks every proof step. It accepted this one. Stanford researchers called it a major result."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So Lean is like a strict examiner who marks every line of working, not just the final answer."
+   },
+   {
+    "speaker": "Mei",
+    "text": "The result suggests quantum computers have no exponential edge on random inputs. For teams at a company like Shopee, it could be worth watching how AI claims get checked before anyone acts on them."
+   },
+   {
+    "speaker": "Raj",
+    "text": "The one thing to remember: the proof was checked step by step, not taken on trust."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Story three, money and power. OpenAI reportedly closed about $11 billion in new funding at a $1.25 trillion valuation. That is up from $852 billion in March."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So everyone is happy?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Not quite. TLDR says the round could reach $20 billion, but it falls short of an earlier $30 billion target. Investors have doubts about AI valuations."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Like a restaurant with a long queue, while some diners wonder if the price is fair."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Meanwhile, US midterm voters backed candidates and measures to regulate data centers. Data center and chip stocks fell, and an analyst expects slower, costlier building."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Anything from OpenAI itself?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "It pledged to pay for its own electricity and avoid non-disclosure agreements on projects."
+   },
+   {
+    "speaker": "Raj",
+    "text": "For a company like Shopee, that could make the cost of AI building worth watching. The takeaway: big money and big doubts are arriving together."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Try this today, from The Neuron: make your AI try to break its own work. The Neuron says it is untested as a fix, so treat it as an experiment."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Fine. What do I actually do?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "AI often misses one requirement. So first, ask it to write a pass or fail checklist for your task. Then open a fresh chat and have it act as a skeptic, marking each item."
+   },
+   {
+    "speaker": "Raj",
+    "text": "And the failures go back for fixing. Like asking a colleague to proofread your report, except the colleague is a fresh chat."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Do it on a draft email, a report, anything with clear requirements."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Rapid fire. Visa tested 22 models on 15 shopping tasks. The best passed 82.2 percent, the worst 28.9 percent."
+   },
+   {
+    "speaker": "Mei",
+    "text": "In 54 percent of failed runs, the AI still bought something."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Thinking Machines launched Inkling 2 Small, a coding and vision model. Open weights are promised next week or after safety testing."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Bloomberg reports Apple's CEO is pushing to redesign Siri as an autonomous agent, possibly next year. Apple has set no timeline."
+   },
+   {
+    "speaker": "Raj",
+    "text": "And OpenCode Browse lets coding agents drive your already signed-in browser, handing back control for logins and payments."
+   },
+   {
+    "speaker": "Mei",
+    "text": "So, back to where we started. Nvidia's board is probing its own CEO, and says it sees no reason to think secrets were compromised."
+   },
+   {
+    "speaker": "Raj",
+    "text": "The full digest with links is in the newsletter. Thanks for listening, lah."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Enjoy the rest of your morning."
+   }
+  ]
+ },
+ {
   "date": "2026-11-06",
   "title": "Data Centre Votes, GIFs and AI Coding Deals",
   "pretty": "Fri 6 Nov 2026",

@@ -8,6 +8,13 @@
 <itunes:image href="https://kxs7733.github.io/ai-kopi-podcast/cover.jpg"/><image><url>https://kxs7733.github.io/ai-kopi-podcast/cover.jpg</url><title>AI Kopi Daily</title>
 <link>https://kxs7733.github.io/ai-kopi-podcast/</link></image>
 <itunes:category text="Technology"/><itunes:explicit>false</itunes:explicit>
+<item><title>Nvidia&#x27;s probe, a quantum proof, OpenAI&#x27;s raise</title>
+<description>Nvidia&#x27;s board opened an independent probe after CEO Jensen Huang admitted an affair with an executive US intelligence suspects of spying for China. A startup says an unreleased Anthropic model proved a quantum computing conjecture open since 2008; a proof checker accepted it. OpenAI reportedly raised about $11B at a $1.25T valuation, while US midterm results put data center plans under pressure.</description>
+<link>https://kxs7733.github.io/ai-kopi-podcast/e/2026-11-10.html</link><guid isPermaLink="false">ai-kopi-2026-11-10</guid>
+<pubDate>Tue, 10 Nov 2026 08:00:00 +0800</pubDate>
+<enclosure url="https://kxs7733.github.io/ai-kopi-podcast/audio/2026-11-10.mp3" length="2441919" type="audio/mpeg"/>
+<itunes:duration>305</itunes:duration><itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit></item>
 <item><title>Data Centre Votes, GIFs and AI Coding Deals</title>
 <description>OpenAI launched Images 2.6 with GIF creation and 50% faster image generation in ChatGPT, Codex and its API. US midterm voters backed limits on data centers in nearly every local vote counted so far, putting AI buildout plans under pressure. OpenAI is buying Pierre Computer and Meta bought Conductor, as both push deeper into AI coding tools.</description>
 <link>https://kxs7733.github.io/ai-kopi-podcast/e/2026-11-06.html</link><guid isPermaLink="false">ai-kopi-2026-11-06</guid>
