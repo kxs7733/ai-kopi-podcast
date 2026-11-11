@@ -1,5 +1,213 @@
 [
  {
+  "date": "2026-11-11",
+  "title": "Faster, cheaper models and a cheap Meta workhorse",
+  "pretty": "Wed 11 Nov 2026",
+  "minutes": "5 min",
+  "seconds": 313,
+  "bytes": 2510675,
+  "points": [
+   "Anthropic released Claude Fable 5.2 and Mythos 5.2: about 30% faster and 20% cheaper, with Fable open to all and Mythos restricted.",
+   "Meta launched Muse Ember, a low-cost model for routine agent work, and Google announced two new AI chips for next year.",
+   "Adobe and Disney will build custom image models, and OpenAI put ChatGPT Enterprise on AWS Marketplace."
+  ],
+  "rfc822": "Wed, 11 Nov 2026 08:00:00 +0800",
+  "transcript": [
+   {
+    "speaker": "Mei",
+    "text": "Anthropic just released two new models that are about 30% faster and 20% cheaper. One of them is locked to vetted groups."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Faster and cheaper at the same time? That's like your kopi getting better while the price drops."
+   },
+   {
+    "speaker": "Mei",
+    "text": "This is AI Kopi Daily, Wednesday 11 November 2026."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Three things to know today. One: Anthropic released Claude Fable 5.2 and Mythos 5.2, about 30% faster and 20% cheaper. Fable is open to all, and Mythos is restricted."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Two: Meta launched Muse Ember, a low-cost model for routine agent work. Google also announced two new AI chips for next year."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Three: Adobe and Disney will build custom image models. And OpenAI put ChatGPT Enterprise on AWS Marketplace."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Let's start with Anthropic. Claude Fable 5.2 and Mythos 5.2 are about 30% faster than 5.1 and 20% cheaper. The price is $8 per million input tokens and $40 per million output."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Faster and cheaper than what, exactly?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Than 5.1. Both numbers are Anthropic's own claims."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Tokens being?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Small chunks of text a model reads or writes. Think of them as the words on your bill."
+   },
+   {
+    "speaker": "Raj",
+    "text": "And Fable versus Mythos?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Same model, different safeguards. Fable is broadly available. Mythos is limited to vetted security and life-science groups."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Same recipe, two doors. One open to everyone, one with a guard."
+   },
+   {
+    "speaker": "Mei",
+    "text": "One catch: much of the evidence comes from Anthropic's own tests. For a company like Shopee, faster and cheaper could matter for anything high-volume, like customer chat. Worth watching."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So the one thing to remember: faster, cheaper, but check the claims yourself."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Next, Meta's Muse Ember. It is Meta's smallest model, built for high-volume agent steps like tool calling and document reading."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Agent steps?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "An agent is an AI that does a task in steps. Ember handles the repetitive ones. Artificial Analysis estimates an average task costs $0.14 on Ember versus $0.41 on Anthropic's Haiku 5.5."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So it's the cheap workhorse, not the star chef."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Right. Ember scored 36 on its index, tying Haiku and beating OpenAI's GPT-6 Luna at 28."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Same score as Haiku, but a lower cost per task?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "On that estimate, yes."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Could that matter for teams running lots of routine steps, like reading documents?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "It could. If the cost per task is really that much lower, high-volume work might look different. Worth watching."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Cheap workhorse for routine steps. That's the one to remember."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Third, OpenAI made ChatGPT Enterprise available through AWS Marketplace."
+   },
+   {
+    "speaker": "Raj",
+    "text": "In plain English?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Organisations can buy and manage subscriptions through their existing AWS billing. They can also count eligible spending toward their AWS commitments."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So it's like paying for a new stall with the food court card you already have. Does the model itself change?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "The digest only talks about how it is bought and billed, not any change to the model. For a company like Shopee, that could mean simpler buying for teams already on AWS. That's a thought, not a fact."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Less paperwork. That's the one to remember."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Try this today. A guide from The Rundown AI uses Claude's Excel add-in to clean up a sales export. It finds duplicates, missing details and formula errors."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Does it just change my numbers?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "No. You approve fixes on a separate sheet. Then you build a monthly report and chart."
+   },
+   {
+    "speaker": "Raj",
+    "text": "And then I check the totals against the source rows."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Exactly. Pick one messy report and try it this morning, lah."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Who is this for?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Anyone who handles sales exports, in ops or marketing, could try it. A thought, not a promise."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Approve, then verify."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Google unveiled two chips. The TPU 8tx keeps data encrypted even while a model is processing it. The 8i Max is built for very large context windows. Both are expected to ship in 2027."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Adobe signed a multi-year deal with Disney for image models trained on Disney's own characters, settings and styles. Financial terms were not disclosed."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Cisco plans to add Anthropic's Mythos to AI Defense, so select enterprises can run adaptive red-team tests on their own AI apps."
+   },
+   {
+    "speaker": "Raj",
+    "text": "And Fireworks AI confirmed attackers accessed billing details and, for some customers, partial models and datasets. It ties the incident to a group that resells stolen large language model access."
+   },
+   {
+    "speaker": "Mei",
+    "text": "So, back to where we started. Models are getting faster and cheaper, but check the claims yourself."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Faster, cheaper, verify. Tell one colleague today. The full digest with links is in the newsletter."
+   },
+   {
+    "speaker": "Mei",
+    "text": "I'm Mei."
+   },
+   {
+    "speaker": "Raj",
+    "text": "I'm Raj. See you tomorrow."
+   }
+  ]
+ },
+ {
   "date": "2026-11-10",
   "title": "Nvidia's probe, a quantum proof, OpenAI's raise",
   "pretty": "Tue 10 Nov 2026",
