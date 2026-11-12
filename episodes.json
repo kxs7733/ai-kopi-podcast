@@ -1,5 +1,189 @@
 [
  {
+  "date": "2026-11-12",
+  "title": "Anthropic's IPO, Gemini's price, ChatGPT shopfronts",
+  "pretty": "Thu 12 Nov 2026",
+  "minutes": "5 min",
+  "seconds": 306,
+  "bytes": 2455089,
+  "points": [
+   "Google opened Gemini 4 Carbon to developers and enterprises; Anthropic added Sheets, Whiteboards and Meetings to Claude; OpenAI let businesses set up profiles in ChatGPT.",
+   "Anthropic set its IPO price range at $70-$78 a share and started pitching investors.",
+   "The AI 2027 forecasters moved their superhuman AI researcher forecast to 2027, citing METR's review of Anthropic."
+  ],
+  "rfc822": "Thu, 12 Nov 2026 08:00:00 +0800",
+  "transcript": [
+   {
+    "speaker": "Mei",
+    "text": "Anthropic is pitching investors for a stock market listing, with shares priced between $70 and $78."
+   },
+   {
+    "speaker": "Raj",
+    "text": "An AI lab going public. Okay, now I'm awake."
+   },
+   {
+    "speaker": "Mei",
+    "text": "This is AI Kopi Daily, Thursday 12 November 2026."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Three things today. First, Google opened Gemini 4 Carbon to developers and enterprises. Anthropic added Sheets, Whiteboards and Meetings to Claude. OpenAI let businesses set up profiles in ChatGPT."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Second, Anthropic set its IPO price range at $70 to $78 a share, and started pitching investors."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Third, the AI 2027 forecasters moved their superhuman AI researcher forecast to 2027, citing METR's review of Anthropic."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Busy morning. Let's start with the money."
+   },
+   {
+    "speaker": "Mei",
+    "text": "First, the IPO. That means initial public offering, when a company first sells shares to the public. Anthropic began pitching investors for a Nasdaq listing under the ticker ANT."
+   },
+   {
+    "speaker": "Raj",
+    "text": "How many shares are we talking about?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "825 million shares, at $70 to $78 each. The Neuron reports a $26 billion private placement from suppliers such as Nvidia and Google. Four of the newsletters we track covered it."
+   },
+   {
+    "speaker": "Raj",
+    "text": "And the valuation?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "AI Secret says the range implies up to a $1.4 trillion valuation. That is below SpaceX's June listing."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So it's like a hawker stall letting the public buy a slice, after the suppliers already put money in."
+   },
+   {
+    "speaker": "Mei",
+    "text": "For a company like Shopee, it could be worth watching how much the AI tools we use depend on investor money. It could shape what those tools cost, or it may not. Too early to say."
+   },
+   {
+    "speaker": "Raj",
+    "text": "One thing to remember: Anthropic is going to the stock market."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Second, Google's Gemini 4 Carbon. Google's strongest model is now open to paying developers and enterprises through an API. It is also rolling out to Ultra subscribers."
+   },
+   {
+    "speaker": "Raj",
+    "text": "What does it cost?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "$2 per million input tokens and $10 per million output tokens. Tokens are the small chunks of text a model reads and writes."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So it's like a taxi meter, ticking per chunk of words. Is it the best model around?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Google cites its own and partner benchmarks. AI Secret notes Claude Fable 5.2 ranks five points ahead on one leaderboard. And The Neuron says the price doubles after November 30."
+   },
+   {
+    "speaker": "Raj",
+    "text": "For product or ops teams watching budgets, a doubling price could change the maths. Worth testing early, lah. One thing to remember: November 30."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Third, OpenAI. Businesses in ChatGPT is a beta where companies claim a verified profile and upload product feeds."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Can those companies read my private chats?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "No. They see aggregated mentions and clicks, but not private chats. Eligible US e-commerce and online service firms can also add a labelled Business Agent."
+   },
+   {
+    "speaker": "Raj",
+    "text": "And the ads?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Paid ads can now point to these agents."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So it's a verified shopfront in the mall directory, with a helper at the door, and ads pointing you there."
+   },
+   {
+    "speaker": "Mei",
+    "text": "For an e-commerce company, it could mean shoppers start their search inside a chat. Product feeds could be worth a look for anyone who runs a catalogue."
+   },
+   {
+    "speaker": "Raj",
+    "text": "One thing to remember: in ChatGPT, businesses can now have profiles and agents."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Now, try this today. A tutorial from Superhuman AI shows how to have ChatGPT inspect a live product page."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Then what?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "It pulls out promising angles, generates base ad creatives, and packages them into a launch table and a downloadable file."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So pick one product page you know well. Ask for the angles first, and read them before you ask for any ads."
+   },
+   {
+    "speaker": "Mei",
+    "text": "That way you check the thinking before you get the creatives. It is a quick way to see how it works."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Quick hits. Anthropic launched Claude Sheets and Whiteboards in beta, and announced Claude Meetings, which joins video calls. It's in beta for Team and Enterprise plans."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Adobe previewed connections that let your own AI agents edit Photoshop, Illustrator and Premiere project files."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Over 35,000 Grok-built apps were public to anyone with the link, including a patient's lab results."
+   },
+   {
+    "speaker": "Raj",
+    "text": "And the AI 2027 forecasters now expect an AI matching top human AI researchers in 2027, citing METR's estimate that Anthropic works about 2x faster."
+   },
+   {
+    "speaker": "Mei",
+    "text": "So, back to the top: Anthropic is pitching investors at $70 to $78 a share."
+   },
+   {
+    "speaker": "Raj",
+    "text": "That's the kopi takeaway. Anthropic is heading to the stock market, Gemini's price doubles after November 30, says The Neuron, and ChatGPT now has business profiles."
+   },
+   {
+    "speaker": "Mei",
+    "text": "The full digest, with links, is in the newsletter."
+   },
+   {
+    "speaker": "Raj",
+    "text": "This is AI Kopi Daily. See you tomorrow."
+   }
+  ]
+ },
+ {
   "date": "2026-11-11",
   "title": "Faster, cheaper models and a cheap Meta workhorse",
   "pretty": "Wed 11 Nov 2026",

@@ -8,6 +8,13 @@
 <itunes:image href="https://kxs7733.github.io/ai-kopi-podcast/cover.jpg"/><image><url>https://kxs7733.github.io/ai-kopi-podcast/cover.jpg</url><title>AI Kopi Daily</title>
 <link>https://kxs7733.github.io/ai-kopi-podcast/</link></image>
 <itunes:category text="Technology"/><itunes:explicit>false</itunes:explicit>
+<item><title>Anthropic&#x27;s IPO, Gemini&#x27;s price, ChatGPT shopfronts</title>
+<description>Google opened Gemini 4 Carbon to developers and enterprises; Anthropic added Sheets, Whiteboards and Meetings to Claude; OpenAI let businesses set up profiles in ChatGPT. Anthropic set its IPO price range at $70-$78 a share and started pitching investors. The AI 2027 forecasters moved their superhuman AI researcher forecast to 2027, citing METR&#x27;s review of Anthropic.</description>
+<link>https://kxs7733.github.io/ai-kopi-podcast/e/2026-11-12.html</link><guid isPermaLink="false">ai-kopi-2026-11-12</guid>
+<pubDate>Thu, 12 Nov 2026 08:00:00 +0800</pubDate>
+<enclosure url="https://kxs7733.github.io/ai-kopi-podcast/audio/2026-11-12.mp3" length="2455089" type="audio/mpeg"/>
+<itunes:duration>306</itunes:duration><itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit></item>
 <item><title>Faster, cheaper models and a cheap Meta workhorse</title>
 <description>Anthropic released Claude Fable 5.2 and Mythos 5.2: about 30% faster and 20% cheaper, with Fable open to all and Mythos restricted. Meta launched Muse Ember, a low-cost model for routine agent work, and Google announced two new AI chips for next year. Adobe and Disney will build custom image models, and OpenAI put ChatGPT Enterprise on AWS Marketplace.</description>
 <link>https://kxs7733.github.io/ai-kopi-podcast/e/2026-11-11.html</link><guid isPermaLink="false">ai-kopi-2026-11-11</guid>
