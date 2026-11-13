@@ -1,5 +1,193 @@
 [
  {
+  "date": "2026-11-13",
+  "title": "Nvidia's Boardroom Shock and Shared AI Teammates",
+  "pretty": "Fri 13 Nov 2026",
+  "minutes": "5 min",
+  "seconds": 317,
+  "bytes": 2543066,
+  "points": [
+   "Nvidia's board is reportedly preparing to remove CEO Jensen Huang after a second affair report; its stock fell sharply.",
+   "Google DeepMind released AlphaGenome 2, which predicts DNA changes' effects cell type by cell type, and launched a fast Gemini Decisions API.",
+   "SpaceXSI's Grok Bot 1.0 brings shared AI teammates to Slack, Teams and meetings; United Airlines is blocking outside AI booking agents."
+  ],
+  "rfc822": "Fri, 13 Nov 2026 08:00:00 +0800",
+  "transcript": [
+   {
+    "speaker": "Mei",
+    "text": "Nvidia's board is reportedly preparing to remove its CEO, Jensen Huang, and the stock has fallen sharply."
+   },
+   {
+    "speaker": "Raj",
+    "text": "That is a lot to read before breakfast. Okay, what happened?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "We'll get to it. This is AI Kopi Daily, Friday 13 November 2026."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Three things today. One: Nvidia's board is reportedly preparing to remove Jensen Huang after a second affair report, and its stock fell sharply."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Two: Google DeepMind released AlphaGenome 2, which predicts what DNA changes do, cell type by cell type. It also launched a fast Gemini Decisions API."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Three: Grok Bot 1.0 from SpaceXSI brings shared AI teammates to Slack, Teams and meetings. And United Airlines is blocking outside AI booking agents."
+   },
+   {
+    "speaker": "Mei",
+    "text": "First, Nvidia. The Wall Street Journal reports the board is preparing to push out CEO Jensen Huang. This came hours after the New York Times reported a second affair, with a vice president who reports to him."
+   },
+   {
+    "speaker": "Raj",
+    "text": "And the market did not like it?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Nvidia lost over $427 billion in market value in two sessions. Then it fell about 8 percent after hours."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So it is like the head chef of a famous hawker stall suddenly walking out. Even if the recipe is the same, everyone worries about the next plate."
+   },
+   {
+    "speaker": "Mei",
+    "text": "That is the idea. For a company like Shopee, it could be worth watching how quickly a leadership story can move a company's value. This is still a report, not a confirmed decision."
+   },
+   {
+    "speaker": "Raj",
+    "text": "One thing to remember: a reported board move, and over $427 billion gone in two sessions."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Next, Google DeepMind released AlphaGenome 2. It predicts how small DNA differences act inside specific cell types, not just whole tissues."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Give me a number."
+   },
+   {
+    "speaker": "Mei",
+    "text": "DeepMind reports it finds nearly twice as many gene-changing variants. That is 30 percent versus 16 percent, on 28 immune cell types."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Nearly double. That sounds big."
+   },
+   {
+    "speaker": "Mei",
+    "text": "That is DeepMind's own report, so treat it as a claim to watch, not a settled fact."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So instead of saying the MRT line is crowded, it tells you which exact carriage is packed."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Good picture. It is open for non-commercial research, with a private commercial preview. It is not validated for clinical use."
+   },
+   {
+    "speaker": "Raj",
+    "text": "For a company like Shopee, it could be a reminder that AI is getting more precise, down to the specific slice. Worth watching, not acting on."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Remember it as precision: cell type by cell type, not just whole tissues."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Third, Grok Bot 1.0 from SpaceXSI leaves beta. It brings Team Bots that groups can share."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So an AI colleague sitting in the team chat?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Pretty much. It joins Google Meet, Zoom and Teams calls, flags unfinished work unprompted and keeps shared memory."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Like a teammate who takes notes and chases you about action items. Politely, I hope."
+   },
+   {
+    "speaker": "Mei",
+    "text": "There are guardrails. A team admin must approve setup, and anything learned from teammates needs owner approval."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So not a free-for-all."
+   },
+   {
+    "speaker": "Mei",
+    "text": "For a company like Shopee, it could be worth watching how shared AI teammates fit into everyday meetings and chats. Who approves what could matter."
+   },
+   {
+    "speaker": "Raj",
+    "text": "One thing to remember: it flags unfinished work without being asked."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Try this today. Catch AI answering a slightly different question."
+   },
+   {
+    "speaker": "Raj",
+    "text": "How do I do that?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "After an AI answers, ask it to list every definition and assumption it used. Then open a fresh chat. Paste only your original request and that list."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Then hunt for mismatches, such as net versus gross revenue. Handy before a report goes to your boss, lah."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Think of it as asking a colleague to show their working. A prompt template is included in the original piece."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Rapid fire. Google's new Gemini Decisions API returns probabilities rather than text, and Google says responses can take as little as 150 milliseconds."
+   },
+   {
+    "speaker": "Raj",
+    "text": "United Airlines is restricting unauthorized AI agents, and CEO Scott Kirby said he does not want another middleman."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Expedia and Booking, by contrast, are partnering with agents instead."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Airbnb says its assistant cut support cost per booking by over 17 percent."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Shopify reports a 9.85 percent conversion lift from a shared model for search and recommendation."
+   },
+   {
+    "speaker": "Raj",
+    "text": "And OpenAI's third quarter revenue reportedly neared triple last year's."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Back to where we began. Nvidia's board is reportedly preparing to remove Jensen Huang, and over $427 billion in market value went in two sessions."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So the takeaway: a reported board move at Nvidia shook the market, and it is still only a report. The full digest with links is in the newsletter."
+   },
+   {
+    "speaker": "Mei",
+    "text": "This was AI Kopi Daily. Have a good Friday, and see you next time."
+   }
+  ]
+ },
+ {
   "date": "2026-11-12",
   "title": "Anthropic's IPO, Gemini's price, ChatGPT shopfronts",
   "pretty": "Thu 12 Nov 2026",
