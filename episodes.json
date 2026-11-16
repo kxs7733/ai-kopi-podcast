@@ -1,5 +1,189 @@
 [
  {
+  "date": "2026-11-16",
+  "title": "Nvidia's CEO quits, Google's Hydrogen lands",
+  "pretty": "Mon 16 Nov 2026",
+  "minutes": "5 min",
+  "seconds": 317,
+  "bytes": 2537001,
+  "points": [
+   "Jensen Huang resigned as Nvidia CEO after an affair scandal; CFO Colette Kress is now interim CEO.",
+   "Google launched Gemini 4 Hydrogen and opened preorders for its Gemini-powered AI smart glasses.",
+   "Anthropic added Claude to video meetings, let agents run on firms' own servers, and reportedly saw huge IPO demand."
+  ],
+  "rfc822": "Mon, 16 Nov 2026 08:00:00 +0800",
+  "transcript": [
+   {
+    "speaker": "Mei",
+    "text": "Nvidia's founder Jensen Huang has resigned as CEO after admitting an affair."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Hold on. The founder of Nvidia actually resigned? That's huge."
+   },
+   {
+    "speaker": "Mei",
+    "text": "This is AI Kopi Daily, Monday, 16 November 2026."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Three things today. One: Jensen Huang resigned as Nvidia CEO, and CFO Colette Kress is now interim CEO."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Two: Google launched Gemini 4 Hydrogen, and opened preorders for its Gemini-powered AI smart glasses."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Three: Anthropic added Claude to video meetings, let agents run on firms' own servers, and reportedly saw huge IPO demand."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Story one. Huang resigned as CEO, president and board member of Nvidia. He admitted an affair with a woman US officials suspect may be linked to Chinese intelligence. Further affairs were later reported."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Who runs the company now?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "CFO Colette Kress is interim CEO. Separately, the Justice Department is investigating Nvidia, its top chip buyer Megaspeed, and Supermicro over antitrust and export-control issues."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So it's like the head chef leaving a famous hawker stall while the inspectors walk in. Same food, but everyone has questions."
+   },
+   {
+    "speaker": "Mei",
+    "text": "For a company like Shopee, it could be worth watching how this touches the AI chips and tools we depend on. That is only a thought for now."
+   },
+   {
+    "speaker": "Raj",
+    "text": "That is a big if, though."
+   },
+   {
+    "speaker": "Mei",
+    "text": "It is. Nothing in today's digest says supply is affected."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Seven newsletters covered this today. The one thing to remember: Nvidia now has an interim CEO, and the investigations are separate."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Story two. Google released Gemini 4 Hydrogen, a faster, cheaper model built for coding and everyday agent tasks. It is now available across Gemini plans."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Cheaper usually means worse. Is it?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Not here. It scored 51 on the Artificial Analysis Intelligence Index, beating the heavier Gemini 4 Argon."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Like a small kopi stall beating the big café on taste."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Pricing is $1.50 per million input tokens and $7.50 per million output tokens. Tokens are the small chunks of text an AI reads and writes."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Input is what you feed in, and output is what comes back."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Right. Both are priced, and output costs more. For teams at a company like Shopee, cheaper models could make routine automation easier to justify. Worth watching."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Remember the number 51. The cheaper model beat the heavier one, Gemini 4 Argon."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Story three. Anthropic launched Claude Meetings. Claude can join Google Meet calls, take notes and build documents live."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Like a colleague who never zones out in the weekly meeting."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Also, a private beta lets companies run Claude's autonomous coding agents on their own servers, for extra security. The beta is private, so it is not open to everyone yet."
+   },
+   {
+    "speaker": "Raj",
+    "text": "That's like cooking at home instead of ordering in. You control the kitchen."
+   },
+   {
+    "speaker": "Mei",
+    "text": "And it comes as Anthropic goes public. Reports describe its IPO as heavily oversubscribed."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Meaning more people wanted shares than were available?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Roughly, yes. For a company handling lots of customer data, running agents on its own servers could matter. Worth watching."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Remember this: Claude is now in the meeting, and the agents can stay in-house."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Try this today. A Rundown writer records his meetings and gives the transcript to Claude. Then he asks it to critique his own performance, not just summarise the call."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Brave. What does it look for?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Talk-time ratio, dodged questions, promises made, and weak answers to objections."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So: who talked most, what you dodged, what you promised, and where you fumbled."
+   },
+   {
+    "speaker": "Mei",
+    "text": "The same approach works on sales calls, interviews or leadership meetings. Starting small works: pick one call this week."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So after your next recorded call, give Claude the transcript and ask for the same honest critique."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Rapid fire. Google's Gemini-powered smart glasses, built with Samsung, are open for preorder from $395 and ship December 10. They directly challenge Meta's Ray-Ban line."
+   },
+   {
+    "speaker": "Mei",
+    "text": "OpenAI's GPT-6 Cyber model found, exploited and patched 948 serious Linux kernel vulnerabilities in a single run, more than its predecessor managed. OpenAI also launched two enterprise tools, Daybreak Red Team and Defense Factory."
+   },
+   {
+    "speaker": "Raj",
+    "text": "A forensic analysis says six models from DeepSeek, Moonshot AI, MiniMax and Ant Group carry numerical fingerprints matching banned Nvidia chips, though it can't prove export controls were broken."
+   },
+   {
+    "speaker": "Mei",
+    "text": "And SpaceX announced $74B in new AI computing sites, including a $50B Arizona facility and a $24B gas-powered complex near Starbase."
+   },
+   {
+    "speaker": "Mei",
+    "text": "So, back to where we started: Nvidia's founder has resigned, and an interim CEO is in charge."
+   },
+   {
+    "speaker": "Raj",
+    "text": "The full digest, with links, is in the newsletter. Thanks for listening, and have a good Monday. See you tomorrow, lah."
+   }
+  ]
+ },
+ {
   "date": "2026-11-13",
   "title": "Nvidia's Boardroom Shock and Shared AI Teammates",
   "pretty": "Fri 13 Nov 2026",
