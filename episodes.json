@@ -1,5 +1,185 @@
 [
  {
+  "date": "2026-11-17",
+  "title": "Huang Comeback Push, ChatGPT Wallet, Qwen4-Max",
+  "pretty": "Tue 17 Nov 2026",
+  "minutes": "5 min",
+  "seconds": 293,
+  "bytes": 2350803,
+  "points": [
+   "A petition of 140,000+ signatures, including Elon Musk, urges Nvidia to bring back Jensen Huang, who is reportedly weighing a return.",
+   "OpenAI launched ChatGPT Wallet, letting agents pay without seeing card numbers, and reportedly folded its robotics team into general research.",
+   "Alibaba released Qwen4-Max, while Anthropic's Claude Duet and new Claude Code Projects push agents that act proactively."
+  ],
+  "rfc822": "Tue, 17 Nov 2026 08:00:00 +0800",
+  "transcript": [
+   {
+    "speaker": "Mei",
+    "text": "A petition with more than 140,000 signatures wants Nvidia to bring Jensen Huang back."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Elon Musk signed it. I need my kopi before we unpack this one."
+   },
+   {
+    "speaker": "Mei",
+    "text": "This is AI Kopi Daily, Tuesday 17 November 2026."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Three things today. One: the Huang petition passed 140,000 signatures, and he is reportedly weighing a return."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Two: OpenAI launched ChatGPT Wallet, so agents can pay without seeing your card number. It also reportedly folded its robotics team into general research."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Three: Alibaba released Qwen4-Max, while Anthropic's Claude Duet and new Claude Code Projects push agents that act proactively."
+   },
+   {
+    "speaker": "Mei",
+    "text": "First story. The Financial Times reports Jensen Huang is privately weighing a return to Nvidia. The petition passed 140,000 signatures, though other newsletters cite 160,000 to 170,000 plus."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So is the number settled?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Not quite. Counts differ by newsletter, so treat 140,000 as a floor. Meanwhile the Treasury Secretary urged an outside CEO. He gave the board 10 days to answer questions on China chip sales."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Why China chip sales?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "The Wall Street Journal reports Nvidia cultivated Asian partners that rented advanced chips to Chinese customers. These are press reports, not findings."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So it is like a hawker stall. The regulars want the old uncle back, but the landlord wants a new operator."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Fair. For a company like Shopee, it could be worth watching, because who leads a chip supplier may shape the chips and cloud capacity many firms rely on."
+   },
+   {
+    "speaker": "Raj",
+    "text": "One thing to remember: Nvidia's top job is now a public tug of war."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Second, OpenAI launched ChatGPT Wallet. It lets AI agents buy things without seeing your real card number."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Then how does it pay?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "A payment token replaces the card details. Each purchase needs a security check, such as Face ID. It was built with American Express, Mastercard and Visa."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So think of a hotel key card. The agent opens one door, but never gets your house keys."
+   },
+   {
+    "speaker": "Mei",
+    "text": "It starts with US ChatGPT Pro users on Dots. For Shopee, it could be worth watching whether shoppers' agents start doing the buying."
+   },
+   {
+    "speaker": "Raj",
+    "text": "But a Visa benchmark found shopping agents not ready. 22 models passed 57.2 percent of 15 shopping challenges."
+   },
+   {
+    "speaker": "Mei",
+    "text": "So agents may pay safely before they shop well."
+   },
+   {
+    "speaker": "Raj",
+    "text": "One thing to remember: your card number stays hidden."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Third, Alibaba released Qwen4-Max, a large language model, the kind of AI behind chatbots. It is pitched for coding and agent work, 3D modelling, game building, and professional tasks like finance and law."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Any numbers?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "AlphaSignal reports 60% lower cost and a 1M-token context window. Smaller models in the family are due to be open-sourced."
+   },
+   {
+    "speaker": "Raj",
+    "text": "A context window is how much the model can read at once. Like how many pages fit on your desk. Bigger desk, fewer trips to the filing cabinet."
+   },
+   {
+    "speaker": "Mei",
+    "text": "If the lower cost holds, it could change what teams can afford to automate. Ops and customer service teams may find that worth watching."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So remember: cheaper, and a bigger desk."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Try this today. Claude Whiteboards turns a plan you speak or paste into an editable board."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So I paste in my messy launch plan, and out comes a board?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Yes. Then check every owner, date and arrow, because Claude fills gaps with guesses."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Guesses on a launch plan. Better check them first, lah."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Then fix the board and share it with teammates as editor, commenter or viewer."
+   },
+   {
+    "speaker": "Raj",
+    "text": "And if you run agents, The Neuron suggests logging every tool call."
+   },
+   {
+    "speaker": "Mei",
+    "text": "It also suggests requiring approval for irreversible actions."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Rapid fire now. United Airlines bans third-party AI agents from booking flights, citing customer data and unintended purchases."
+   },
+   {
+    "speaker": "Raj",
+    "text": "DeepSeek added web search, file parsing and URL reading to V4.1-Flash for developers, billed on top of token prices."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Bland AI says its voice model fooled 92% of listeners into thinking it was human. Launch is planned for early January."
+   },
+   {
+    "speaker": "Raj",
+    "text": "And SpaceX reportedly laid off about 60 staff from its Grok Imagine team, as resources shift towards coding tools."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Back to where we started. Nvidia's top job is now a public tug of war, with Huang reportedly weighing a return."
+   },
+   {
+    "speaker": "Raj",
+    "text": "The full digest with links is in the newsletter. This was AI Kopi Daily. See you tomorrow."
+   }
+  ]
+ },
+ {
   "date": "2026-11-16",
   "title": "Nvidia's CEO quits, Google's Hydrogen lands",
   "pretty": "Mon 16 Nov 2026",
