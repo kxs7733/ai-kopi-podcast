@@ -1,5 +1,169 @@
 [
  {
+  "date": "2026-11-19",
+  "title": "Cheaper AI, and Who Is Counting the Cost",
+  "pretty": "Thu 19 Nov 2026",
+  "minutes": "5 min",
+  "seconds": 316,
+  "bytes": 2534699,
+  "points": [
+   "OpenAI released GPT-6.2 Astra and Sol, cheaper per task, but early testers gave harsh reviews and Astra still ranks behind Anthropic's Fable 5.2.",
+   "Microsoft launched seven MAI models and Agent 365 Business Analytics at Ignite, pitching lower costs and measurable returns on AI spending.",
+   "Nvidia's board refused to reinstate Jensen Huang, and Google expanded Gemini Tasks to free users in six countries."
+  ],
+  "rfc822": "Thu, 19 Nov 2026 08:00:00 +0800",
+  "transcript": [
+   {
+    "speaker": "Mei",
+    "text": "OpenAI just launched its new top model, and says it costs under a third as much per task as the last one. But early testers were harsh."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Cheaper, but the reviews are grumpy. That's a story."
+   },
+   {
+    "speaker": "Mei",
+    "text": "This is AI Kopi Daily, for Thursday 19 November 2026."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Three things in thirty seconds. One: OpenAI released GPT-6.2 Astra and Sol. They are cheaper per task, but early testers gave harsh reviews, and Astra still ranks behind Anthropic's Fable 5.2."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Two: Microsoft launched seven MAI models and Agent 365 Business Analytics at Ignite. The pitch is lower costs and measurable returns on AI spending."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Three: Nvidia's board refused to reinstate Jensen Huang, and Google expanded Gemini Tasks to free users in six countries."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Let's start with OpenAI. Astra is its top large language model. Sol is a cheaper, everyday one. OpenAI says Astra costs under a third as much per task as its predecessor."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Under a third. Like your usual lunch set dropping to a third of the price. What's the catch?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Reviews. Independent ranking puts Astra second, behind Anthropic's Fable 5.2. Several testers criticised its coding and its hard-to-read answers."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So cheaper, but not the best."
+   },
+   {
+    "speaker": "Mei",
+    "text": "The Deep View says the bigger story is work per dollar. Astra matches Fable 5.2's token prices, while Sol is priced like Anthropic's cheaper Sonnet tier. The writer sees models becoming commodities."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Like teh tarik stalls. If every cup tastes about the same, you pick by price. For a company like Shopee, the question could shift from which model is smartest to which one does the job cheapest. Worth watching."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Next, Microsoft, at its Ignite event. It released seven models covering coding, cybersecurity, images, voice and decisions. All pitched as cheaper."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Give me a number."
+   },
+   {
+    "speaker": "Mei",
+    "text": "MAI Code 2 is reported to reach 98% of GPT-6.1 Sol's coding quality at about 40% of the price. Reported, so we hold it loosely."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Nearly the same dish for much less. Fine. What else?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Microsoft also launched Agent 365 Business Analytics. It links AI spending to completed work. AI Secret also reports that Satya Nadella said AI cannot be trusted by definition, and that his answer was Microsoft's own controls over what agents may do. An edited speech posted later dropped both remarks."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So it's like a receipt showing what your AI bill actually bought. For teams at Shopee, that could help show whether AI spend is paying off. The trust question? Worth watching."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Google is expanding Gemini Tasks to free users in six countries. Tasks mode lets the assistant work on your to-dos in the background."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Like what?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Researching, calling businesses, booking appointments, and shopping within a spending limit. It's powered by Gemini 4 Hydrogen, and it's now rolling out beyond paid plans."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So it's a helper running errands while I finish my kopi."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Exactly. For a company like Shopee, it could mean more shopping done by assistants that carry a budget. Worth watching."
+   },
+   {
+    "speaker": "Raj",
+    "text": "The one thing to remember: assistants can now shop within a spending limit, and it's no longer paid-only."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Now, try this today. The Rundown AI has a guide to turn a spreadsheet into a dashboard with Claude. It uses Claude's Data artifact, and works from a CSV or Excel file."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Why would I trust the charts?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Each chart links to the query behind it, so you can check the figures. Changes can be rolled back. Claude can also draft a shareable data story."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So pick a spreadsheet you already have, build the dashboard, then click one chart and check where its number came from."
+   },
+   {
+    "speaker": "Mei",
+    "text": "That check is the habit worth building."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Quick hits. Nvidia's board rejected Jensen Huang's bid to return. Huang, who resigned last week, apologised for serious mistakes. Chairman Harvey Jones said the board does not intend to reinstate him."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Demis Hassabis's Isomorphic Labs raised $5 billion for AI drug discovery. It says its cancer and immune disease candidates are nearing human trials, but none has been tested in people yet."
+   },
+   {
+    "speaker": "Mei",
+    "text": "OpenAI is giving four outside safety groups, including Apollo Research and METR, deeper access to its models. Apollo says access is still limited."
+   },
+   {
+    "speaker": "Raj",
+    "text": "And Replit launched Missions, which coordinates many AI agents on complex projects within set budgets."
+   },
+   {
+    "speaker": "Mei",
+    "text": "So, back to where we started. OpenAI's new models are cheaper per task, and The Deep View argues the race is now about work per dollar."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Cheaper per task, and prove it. That's the one to remember."
+   },
+   {
+    "speaker": "Mei",
+    "text": "The full digest, with links, is in the newsletter. Thanks for listening, and enjoy your kopi."
+   },
+   {
+    "speaker": "Raj",
+    "text": "See you tomorrow."
+   }
+  ]
+ },
+ {
   "date": "2026-11-18",
   "title": "California Sues OpenAI Over Escaped Test Agents",
   "pretty": "Wed 18 Nov 2026",
