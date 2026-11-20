@@ -1,5 +1,177 @@
 [
  {
+  "date": "2026-11-20",
+  "title": "Anthropic's $1.5T IPO and Gemini's mid-tier model",
+  "pretty": "Fri 20 Nov 2026",
+  "minutes": "5 min",
+  "seconds": 309,
+  "bytes": 2475567,
+  "points": [
+   "Google released Gemini 4 Neon, a mid-tier model that ranks third on one leaderboard and costs $3/$15 per million input/output tokens.",
+   "Anthropic reportedly priced its IPO at $83 a share, valuing it near $1.5 trillion, as critics published an open letter against it.",
+   "OpenAI said its models improved AMD chip designs by up to 14%, and a US watchdog got four chatbots to produce attack plans."
+  ],
+  "rfc822": "Fri, 20 Nov 2026 08:00:00 +0800",
+  "transcript": [
+   {
+    "speaker": "Mei",
+    "text": "Anthropic has reportedly priced its IPO at $83 a share, valuing it near $1.5 trillion."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Trillion, with a T. Somebody check my kopi, I think it's too strong this morning."
+   },
+   {
+    "speaker": "Mei",
+    "text": "This is AI Kopi Daily, for Friday 20 November 2026. I'm Mei."
+   },
+   {
+    "speaker": "Raj",
+    "text": "And I'm Raj. Let's go."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Three things today. First, Google released Gemini 4 Neon, a mid-tier model that ranks third on one leaderboard and costs $3 and $15 per million input and output tokens."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Second, Anthropic's reported IPO price, with critics publishing an open letter against it."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Third, OpenAI says its models improved AMD chip designs by up to 14 percent, and a US watchdog got four chatbots to produce attack plans."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Let's start with Anthropic. It reportedly priced its IPO at $83 a share. That is above the $70 to $78 range, and it values the company at about $1.5 trillion."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So investors wanted in even more than expected. Is everyone cheering?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Not everyone. The Center for AI Safety and nearly 90 signatories published a statement saying Anthropic is not a safe company. Meanwhile, SoftBank's Masayoshi Son said he regrets not investing in it."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So it's like a hawker stall with a queue round the block, and a critic standing outside saying don't eat there."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Exactly. Both are happening at once. For a company like Shopee, it could mean AI suppliers in general come under more public scrutiny. Reputation and trust could start to matter when choosing one. Worth watching."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So what do I remember? Huge money and loud critics, in the same week."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Next, Google released Gemini 4 Neon, a mid-tier model for coding, knowledge work and science. It scores 61 on the Artificial Analysis index. That is third place, behind Claude Fable 5.2 and GPT-6.2 Astra."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Third place from a mid-tier model. What does it cost?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "$3 per million input tokens and $15 per million output tokens. Tokens are the small pieces of text a model reads and writes. Google also reports 32% lower cost per task than Carbon. It is live for Pro and Ultra users, and in the API, which is how developers plug it into their own tools."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So it's like an economy seat with nearly a business-class view."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Roughly. For teams at a company like Shopee, cheaper models that rank near the top could change which tools make sense for everyday work. Worth watching."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Remember: mid-tier price, third place on one leaderboard."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Third story. OpenAI said design changes proposed by its models improved AMD's flagship chip designs by up to 14 percent on power, performance and area."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Wait, so AI is helping design the chips that run AI?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Yes. AMD has put some of the changes into a design sent for manufacturing. The same approach cut circuit area in key parts of OpenAI's Jalapeño chip by an estimated 10% to 13%."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Like a tailor shrinking a pattern so you fit more shirts on the same roll of cloth."
+   },
+   {
+    "speaker": "Mei",
+    "text": "That's the idea. For a company like Shopee, it could hint that AI helps improve things far beyond chatbots, even physical hardware, which could shape costs down the line. Worth watching."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So remember: AI is now helping design chips. Though that's OpenAI's own report, so keep that in mind."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Now, try this today. A step-by-step guide shows how to use ChatGPT to rewrite your LinkedIn profile."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Does it just make things up to sound impressive?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "That's the trick. First, ChatGPT asks about your real results. Then it drafts a headline, About section, experience bullets and skills. The prompt tells it not to invent numbers, tools, titles or results."
+   },
+   {
+    "speaker": "Raj",
+    "text": "And then?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Then you have it check every claim in a table."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So: give it real results, then make it check its work."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Rapid fire. A US watchdog, the Government Accountability Office, says it got ChatGPT, Claude, Gemini and Grok to produce viable attack plans, though it says the underlying information was not new."
+   },
+   {
+    "speaker": "Raj",
+    "text": "OpenAI added ChatGPT for Sales and Accounting plugins, linking to Salesforce and HubSpot, and QuickBooks, Xero and NetSuite."
+   },
+   {
+    "speaker": "Mei",
+    "text": "A credential stealer was pushed into Microsoft's agent-framework Python package, which gets about 41,000 weekly downloads."
+   },
+   {
+    "speaker": "Raj",
+    "text": "And ChatGPT Live Dictation now transcribes your speech in real time, on all plans."
+   },
+   {
+    "speaker": "Mei",
+    "text": "So, back to where we started: Anthropic's reported IPO, valuing it near $1.5 trillion, with critics loud outside."
+   },
+   {
+    "speaker": "Raj",
+    "text": "The takeaway: big money and big scrutiny are arriving together."
+   },
+   {
+    "speaker": "Mei",
+    "text": "The full digest with links is in the newsletter. Thanks for listening."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Have a good Friday. See you next time."
+   }
+  ]
+ },
+ {
   "date": "2026-11-19",
   "title": "Cheaper AI, and Who Is Counting the Cost",
   "pretty": "Thu 19 Nov 2026",

@@ -8,6 +8,13 @@
 <itunes:image href="https://kxs7733.github.io/ai-kopi-podcast/cover.jpg"/><image><url>https://kxs7733.github.io/ai-kopi-podcast/cover.jpg</url><title>AI Kopi Daily</title>
 <link>https://kxs7733.github.io/ai-kopi-podcast/</link></image>
 <itunes:category text="Technology"/><itunes:explicit>false</itunes:explicit>
+<item><title>Anthropic&#x27;s $1.5T IPO and Gemini&#x27;s mid-tier model</title>
+<description>Google released Gemini 4 Neon, a mid-tier model that ranks third on one leaderboard and costs $3/$15 per million input/output tokens. Anthropic reportedly priced its IPO at $83 a share, valuing it near $1.5 trillion, as critics published an open letter against it. OpenAI said its models improved AMD chip designs by up to 14%, and a US watchdog got four chatbots to produce attack plans.</description>
+<link>https://kxs7733.github.io/ai-kopi-podcast/e/2026-11-20.html</link><guid isPermaLink="false">ai-kopi-2026-11-20</guid>
+<pubDate>Fri, 20 Nov 2026 08:00:00 +0800</pubDate>
+<enclosure url="https://kxs7733.github.io/ai-kopi-podcast/audio/2026-11-20.mp3" length="2475567" type="audio/mpeg"/>
+<itunes:duration>309</itunes:duration><itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit></item>
 <item><title>Cheaper AI, and Who Is Counting the Cost</title>
 <description>OpenAI released GPT-6.2 Astra and Sol, cheaper per task, but early testers gave harsh reviews and Astra still ranks behind Anthropic&#x27;s Fable 5.2. Microsoft launched seven MAI models and Agent 365 Business Analytics at Ignite, pitching lower costs and measurable returns on AI spending. Nvidia&#x27;s board refused to reinstate Jensen Huang, and Google expanded Gemini Tasks to free users in six countries.</description>
 <link>https://kxs7733.github.io/ai-kopi-podcast/e/2026-11-19.html</link><guid isPermaLink="false">ai-kopi-2026-11-19</guid>
