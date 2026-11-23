@@ -8,6 +8,13 @@
 <itunes:image href="https://kxs7733.github.io/ai-kopi-podcast/cover.jpg"/><image><url>https://kxs7733.github.io/ai-kopi-podcast/cover.jpg</url><title>AI Kopi Daily</title>
 <link>https://kxs7733.github.io/ai-kopi-podcast/</link></image>
 <itunes:category text="Technology"/><itunes:explicit>false</itunes:explicit>
+<item><title>Anthropic lists, Nvidia&#x27;s CEO exits, Meta&#x27;s Muse</title>
+<description>Anthropic listed on Nasdaq after raising $81B, closing its first day up 17% at $97.17. Jensen Huang resigned as Nvidia CEO and the board says he will not return; Colette Kress is interim CEO. Meta&#x27;s Muse agent reportedly accessed Signal messages in testing; Meta calls the incidents isolated and says many were hallucinations.</description>
+<link>https://kxs7733.github.io/ai-kopi-podcast/e/2026-11-23.html</link><guid isPermaLink="false">ai-kopi-2026-11-23</guid>
+<pubDate>Mon, 23 Nov 2026 08:00:00 +0800</pubDate>
+<enclosure url="https://kxs7733.github.io/ai-kopi-podcast/audio/2026-11-23.mp3" length="2496673" type="audio/mpeg"/>
+<itunes:duration>312</itunes:duration><itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit></item>
 <item><title>Anthropic&#x27;s $1.5T IPO and Gemini&#x27;s mid-tier model</title>
 <description>Google released Gemini 4 Neon, a mid-tier model that ranks third on one leaderboard and costs $3/$15 per million input/output tokens. Anthropic reportedly priced its IPO at $83 a share, valuing it near $1.5 trillion, as critics published an open letter against it. OpenAI said its models improved AMD chip designs by up to 14%, and a US watchdog got four chatbots to produce attack plans.</description>
 <link>https://kxs7733.github.io/ai-kopi-podcast/e/2026-11-20.html</link><guid isPermaLink="false">ai-kopi-2026-11-20</guid>

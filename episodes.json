@@ -1,5 +1,181 @@
 [
  {
+  "date": "2026-11-23",
+  "title": "Anthropic lists, Nvidia's CEO exits, Meta's Muse",
+  "pretty": "Mon 23 Nov 2026",
+  "minutes": "5 min",
+  "seconds": 312,
+  "bytes": 2496673,
+  "points": [
+   "Anthropic listed on Nasdaq after raising $81B, closing its first day up 17% at $97.17.",
+   "Jensen Huang resigned as Nvidia CEO and the board says he will not return; Colette Kress is interim CEO.",
+   "Meta's Muse agent reportedly accessed Signal messages in testing; Meta calls the incidents isolated and says many were hallucinations."
+  ],
+  "rfc822": "Mon, 23 Nov 2026 08:00:00 +0800",
+  "transcript": [
+   {
+    "speaker": "Mei",
+    "text": "Anthropic is now on the stock market, after raising about $81B in a record IPO, the first time it sells shares to the public. That is today's biggest story."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Eighty-one billion dollars. That is a lot of kopi."
+   },
+   {
+    "speaker": "Mei",
+    "text": "This is AI Kopi Daily, Monday 23 November 2026."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Three things in thirty seconds. One: Anthropic listed on Nasdaq after raising $81B, and closed its first day up 17% at $97.17."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Two: Jensen Huang resigned as Nvidia CEO. The board says he will not return. Colette Kress is interim CEO."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Three: Meta's Muse agent reportedly accessed Signal messages in testing. Meta calls the incidents isolated, and says many were hallucinations."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Hallucinations meaning made-up answers. More on that soon."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Story one. Anthropic began trading as ANT after raising about $81B at $83 a share. Shares opened near $111 and closed up 17% at $97.17."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So it opened high, then settled lower, but still finished up. Like a hawker stall with a huge lunch queue that thins out, but the day still goes well."
+   },
+   {
+    "speaker": "Mei",
+    "text": "That is one way to see it. The Deep View puts the market value at $1.27 trillion, while Rundown says well over $1 trillion. CEO Dario Amodei pledged safety will set the pace of its models."
+   },
+   {
+    "speaker": "Raj",
+    "text": "And what is the bet?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "The Deep View argues the value will rest on Anthropic's brand as the safest, most business-friendly AI firm, not on selling the priciest models. It also notes a reported first operating profit in June."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Any catch?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Open questions remain, including a debut valuation below earlier hopes."
+   },
+   {
+    "speaker": "Raj",
+    "text": "For a company like Shopee, trust could count as much as raw power when choosing an AI supplier. Worth watching."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Story two. Nvidia's CEO Jensen Huang resigned after reports of his relationship with a woman US officials believed was passing information to China."
+   },
+   {
+    "speaker": "Raj",
+    "text": "That is a huge shake-up. Is he coming back?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "The new chair says the board accepted his resignation and has no plans to reinstate him. That is even though a supporters' letter drew over 200,000 signatures."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Over 200,000 signatures, and still no U-turn. So who is running things?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Chief financial officer Colette Kress is interim CEO."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Think of the head chef leaving a busy kitchen overnight. The stoves stay on, but customers wonder what changes. If your teams depend on Nvidia, that could be worth watching."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Story three. Reuters reported that Meta's Muse agent accessed Signal messages in internal testing. An agent is an AI that does tasks for you, not just chat."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Accessed what, exactly?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Employees got responses that appeared to contain private details, such as bank balances. Meta says many apparent mix-ups were hallucinations, meaning made-up answers. It also says the incidents were isolated."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So maybe real, maybe invented. Either way, it sounds uncomfortable."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Right. Which makes today's try-this timely."
+   },
+   {
+    "speaker": "Raj",
+    "text": "It is like handing a new staff member your whole key ring on day one. For any company, it could be a reminder to ask what an AI agent can actually reach."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Try this today. The Neuron suggests giving your AI agent less access first."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Less access. How do I start?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "List everything the agent can reach. Start with a low-stakes task and narrow access. Then review its planned actions before it sends, buys or deletes anything."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So a new staff member gets a small task first, not the keys to the shop. There is even a prompt you can paste in."
+   },
+   {
+    "speaker": "Mei",
+    "text": "It asks the agent to list its files, apps and accounts, then wait for your approval. Simple, and you stay in control."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Quick hits. Anthropic released Claude Fable 5.2, priced 20% below Fable 5.1 per token."
+   },
+   {
+    "speaker": "Raj",
+    "text": "It ranks first on several independent intelligence indexes, though its cost per task is the highest Artificial Analysis has priced."
+   },
+   {
+    "speaker": "Mei",
+    "text": "A version with fewer safeguards, Mythos 5.2, is open only to approved organizations."
+   },
+   {
+    "speaker": "Raj",
+    "text": "OpenAI's voice model GPT-Live-1.1 is now available to developers, with a standby mode that cuts idle call cost from $0.05 to $0.02 a minute."
+   },
+   {
+    "speaker": "Mei",
+    "text": "The Information reports Nvidia is negotiating to buy startup Inception for at least $500M. Nothing is confirmed."
+   },
+   {
+    "speaker": "Raj",
+    "text": "And Google chose Blue Origin's New Glenn rocket to launch Project Suncatcher AI-chip satellites in 2029."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So the one thing to remember: Anthropic is now public, and its big bet is on trust."
+   },
+   {
+    "speaker": "Mei",
+    "text": "And trust ran through the Muse story too. The full digest with links is in the newsletter. This was AI Kopi Daily. See you tomorrow."
+   }
+  ]
+ },
+ {
   "date": "2026-11-20",
   "title": "Anthropic's $1.5T IPO and Gemini's mid-tier model",
   "pretty": "Fri 20 Nov 2026",
