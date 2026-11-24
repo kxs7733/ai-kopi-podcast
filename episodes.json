@@ -1,5 +1,157 @@
 [
  {
+  "date": "2026-11-24",
+  "title": "Claude's Maths Proof, Shared AI Limits, Laptop Models",
+  "pretty": "Tue 24 Nov 2026",
+  "minutes": "5 min",
+  "seconds": 307,
+  "bytes": 2458225,
+  "points": [
+   "Anthropic's Levent Alpöge says Claude helped him prove the Riemann Hypothesis; the Lean and Mathlib communities say they have full confidence in it.",
+   "OpenAI's chief scientist published internal perplexity scores and proposed shared capability limits for frontier labs, and OpenAI also tightened defences against distillation.",
+   "Thinking Machines released Inkling 2 Mini, a small open-weight model that runs on a 32GB Mac; Amazon is reportedly nearing a $7.5B Decart deal."
+  ],
+  "rfc822": "Tue, 24 Nov 2026 08:00:00 +0800",
+  "transcript": [
+   {
+    "speaker": "Mei",
+    "text": "An Anthropic mathematician says Claude helped him prove the Riemann Hypothesis, a problem that is 167 years old."
+   },
+   {
+    "speaker": "Raj",
+    "text": "A 167-year-old problem, and we're hearing about it before our kopi cools. Is it for real?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "The Lean and Mathlib communities are backing it, though one check is still running and not everyone is convinced. This is AI Kopi Daily, Tuesday 24 November 2026."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Three things in 30 seconds. One: Anthropic's Levent Alpöge says Claude helped him prove the Riemann Hypothesis. The Lean and Mathlib communities say they have full confidence in it."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Two: OpenAI's chief scientist published internal perplexity scores and proposed shared capability limits for frontier labs. OpenAI also tightened defences against distillation."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Three: Thinking Machines released Inkling 2 Mini, a small open-weight model that runs on a 32GB Mac. And Amazon is reportedly nearing a $7.5 billion deal for Decart."
+   },
+   {
+    "speaker": "Mei",
+    "text": "First, the proof. Levent Alpöge released a 17-million-line proof of the Riemann Hypothesis, and a computer can check it. The Lean and Mathlib communities say they have full confidence in it."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So nobody has to just take his word for it?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "That's the idea. Think of an exam where a strict marker checks every single line. But The Neuron notes one final check was still running. The Association for Human Mathematics called it publicity, and a rival proof that did not use AI was flagged as flawed."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So the claim is big, and the checking is not quite finished. For a company like Shopee, it could be worth watching whether AI answers that come with checkable evidence earn more trust. One thing to remember: show the receipts."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Second, OpenAI's chief scientist, Jakub Pachocki, published the company's internal perplexity scores. That is a measure of how well a model predicts the next word."
+   },
+   {
+    "speaker": "Raj",
+    "text": "And why does a listener on the MRT care about that?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "He says abilities in cybersecurity and maths emerge below 0.8. An unreleased model sits near 0.73. He asked rival labs to agree on common limits until monitoring tools catch up."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Who decides the limits, then?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "The idea is that the labs agree among themselves. Nothing is agreed yet."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So it's like everyone agreeing on a speed limit before the new traffic cameras arrive. Remember, it is a proposal, not an agreement. For a company like Shopee, it could be worth watching whether shared limits shape which AI tools reach us."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Third, Thinking Machines released Inkling 2 Mini. It is an open-weight model with 26.4B parameters, and it runs on a Mac with 32GB of memory."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So no giant data centre needed?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Think of cooking at home instead of ordering from a central kitchen. Thinking Machines says it leads open-weight models under 100B parameters on the DeepSWE coding benchmark."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Any catch?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Yes. AI Secret describes it as a 20GB model, while AlphaSignal says it runs on 16GB of RAM. So check the memory needs before you plan around it."
+   },
+   {
+    "speaker": "Raj",
+    "text": "For teams at Shopee, it could mean some AI work runs on a laptop. Worth watching, not a promise. Remember: small model, big claims, check the specs."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Try this today: a 60-second KPI recap video with Claude. KPI just means your key performance numbers. Connect your metrics data in Claude and create a Data artifact."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Then what?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Choose the Visual short format. Use the sample prompt to highlight the biggest changes and two actions."
+   },
+   {
+    "speaker": "Raj",
+    "text": "And the step I should not skip?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Check each chart's query before sharing with leadership."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So the video is quick, but the checking is on you. Check before you share."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Rapid fire. Distillation means training a cheaper copy of a model on its outputs, and OpenAI says attacks extracting hidden reasoning from GPT-6.2 Astra now succeed 0.2 percent of the time, down from 54 percent."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Palo Alto Networks is buying Applied Compute, a firm that helps companies customise open-weight models, in a $4.5B all-stock deal."
+   },
+   {
+    "speaker": "Mei",
+    "text": "President Trump floated a 'tremendous tax' on US companies building data centres abroad, though The Deep View says details are unclear."
+   },
+   {
+    "speaker": "Raj",
+    "text": "And Cognition is reportedly in talks at a $75B valuation, seeking $2B or more."
+   },
+   {
+    "speaker": "Mei",
+    "text": "So, back to the big one. Claude helped with a 17-million-line proof, and the checking is what builds trust. Short version: a huge AI-assisted proof, a call for shared limits, and a model small enough for a laptop."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Proof with receipts, that's the takeaway. Check before you share, too. The full digest with links is in the newsletter. This was AI Kopi Daily. See you tomorrow, lah."
+   }
+  ]
+ },
+ {
   "date": "2026-11-23",
   "title": "Anthropic lists, Nvidia's CEO exits, Meta's Muse",
   "pretty": "Mon 23 Nov 2026",

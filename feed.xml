@@ -8,6 +8,13 @@
 <itunes:image href="https://kxs7733.github.io/ai-kopi-podcast/cover.jpg"/><image><url>https://kxs7733.github.io/ai-kopi-podcast/cover.jpg</url><title>AI Kopi Daily</title>
 <link>https://kxs7733.github.io/ai-kopi-podcast/</link></image>
 <itunes:category text="Technology"/><itunes:explicit>false</itunes:explicit>
+<item><title>Claude&#x27;s Maths Proof, Shared AI Limits, Laptop Models</title>
+<description>Anthropic&#x27;s Levent Alpöge says Claude helped him prove the Riemann Hypothesis; the Lean and Mathlib communities say they have full confidence in it. OpenAI&#x27;s chief scientist published internal perplexity scores and proposed shared capability limits for frontier labs, and OpenAI also tightened defences against distillation. Thinking Machines released Inkling 2 Mini, a small open-weight model that runs on a 32GB Mac; Amazon is reportedly nearing a $7.5B Decart deal.</description>
+<link>https://kxs7733.github.io/ai-kopi-podcast/e/2026-11-24.html</link><guid isPermaLink="false">ai-kopi-2026-11-24</guid>
+<pubDate>Tue, 24 Nov 2026 08:00:00 +0800</pubDate>
+<enclosure url="https://kxs7733.github.io/ai-kopi-podcast/audio/2026-11-24.mp3" length="2458225" type="audio/mpeg"/>
+<itunes:duration>307</itunes:duration><itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit></item>
 <item><title>Anthropic lists, Nvidia&#x27;s CEO exits, Meta&#x27;s Muse</title>
 <description>Anthropic listed on Nasdaq after raising $81B, closing its first day up 17% at $97.17. Jensen Huang resigned as Nvidia CEO and the board says he will not return; Colette Kress is interim CEO. Meta&#x27;s Muse agent reportedly accessed Signal messages in testing; Meta calls the incidents isolated and says many were hallucinations.</description>
 <link>https://kxs7733.github.io/ai-kopi-podcast/e/2026-11-23.html</link><guid isPermaLink="false">ai-kopi-2026-11-23</guid>
