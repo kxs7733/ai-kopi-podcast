@@ -8,6 +8,13 @@
 <itunes:image href="https://kxs7733.github.io/ai-kopi-podcast/cover.jpg"/><image><url>https://kxs7733.github.io/ai-kopi-podcast/cover.jpg</url><title>AI Kopi Daily</title>
 <link>https://kxs7733.github.io/ai-kopi-podcast/</link></image>
 <itunes:category text="Technology"/><itunes:explicit>false</itunes:explicit>
+<item><title>Nvidia&#x27;s U-turn, Claude Ship and agents that fail</title>
+<description>Nvidia&#x27;s board reinstated Jensen Huang as CEO after US government input; shares jumped about 30% and he faces House hearings in December. Anthropic launched Claude Ship, agents that review, fix and approve code changes; OpenAI and Cisco released Shirudo to shield live Linux servers. Z.ai released GLM-5.4, which reuses its layers twice to think deeper, while a new benchmark shows agents fail about four in ten tasks.</description>
+<link>https://kxs7733.github.io/ai-kopi-podcast/e/2026-11-25.html</link><guid isPermaLink="false">ai-kopi-2026-11-25</guid>
+<pubDate>Wed, 25 Nov 2026 08:00:00 +0800</pubDate>
+<enclosure url="https://kxs7733.github.io/ai-kopi-podcast/audio/2026-11-25.mp3" length="2392184" type="audio/mpeg"/>
+<itunes:duration>299</itunes:duration><itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit></item>
 <item><title>Claude&#x27;s Maths Proof, Shared AI Limits, Laptop Models</title>
 <description>Anthropic&#x27;s Levent Alpöge says Claude helped him prove the Riemann Hypothesis; the Lean and Mathlib communities say they have full confidence in it. OpenAI&#x27;s chief scientist published internal perplexity scores and proposed shared capability limits for frontier labs, and OpenAI also tightened defences against distillation. Thinking Machines released Inkling 2 Mini, a small open-weight model that runs on a 32GB Mac; Amazon is reportedly nearing a $7.5B Decart deal.</description>
 <link>https://kxs7733.github.io/ai-kopi-podcast/e/2026-11-24.html</link><guid isPermaLink="false">ai-kopi-2026-11-24</guid>

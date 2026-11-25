@@ -1,5 +1,169 @@
 [
  {
+  "date": "2026-11-25",
+  "title": "Nvidia's U-turn, Claude Ship and agents that fail",
+  "pretty": "Wed 25 Nov 2026",
+  "minutes": "5 min",
+  "seconds": 299,
+  "bytes": 2392184,
+  "points": [
+   "Nvidia's board reinstated Jensen Huang as CEO after US government input; shares jumped about 30% and he faces House hearings in December.",
+   "Anthropic launched Claude Ship, agents that review, fix and approve code changes; OpenAI and Cisco released Shirudo to shield live Linux servers.",
+   "Z.ai released GLM-5.4, which reuses its layers twice to think deeper, while a new benchmark shows agents fail about four in ten tasks."
+  ],
+  "rfc822": "Wed, 25 Nov 2026 08:00:00 +0800",
+  "transcript": [
+   {
+    "speaker": "Mei",
+    "text": "Nvidia's board has brought Jensen Huang back as CEO, just days after saying it would not."
+   },
+   {
+    "speaker": "Raj",
+    "text": "That is a U-turn faster than the MRT doors closing. What happened?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "We will get to that. This is AI Kopi Daily, your morning AI news."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Three things today. First, Nvidia reinstated Jensen Huang after US government input. Shares jumped about 30 percent, and he faces House hearings in December."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Second, Anthropic launched Claude Ship, agents that review, fix and approve code changes. OpenAI and Cisco released Shirudo to shield live Linux servers."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Third, Z.ai released GLM-5.4, which reuses its layers twice to think deeper. And a new benchmark shows agents fail about four in ten tasks."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Nvidia's board voted unanimously to bring back Jensen Huang as president, CEO and director. Days earlier, it had said it would not."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So what changed?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "The board cited input from senior US officials and said no national security risk exists. Shares rose about 30 percent. Its own investigation continues, and Huang faces a House interview on December 1."
+   },
+   {
+    "speaker": "Raj",
+    "text": "And the bigger picture?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "The Deep View argues the return shows how much the AI market depends on one person. Reuters and Axios report Trump and Vance pushed for it. One analyst called it a cave-in to pressure, and said it may push big cloud firms to build their own chips."
+   },
+   {
+    "speaker": "Raj",
+    "text": "For a company like Shopee, that could be worth watching. If so much rides on one person, plans built on one supplier could get shaky fast. Remember this: the board changed its mind in days."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Anthropic launched Claude Ship. It is a set of three agents for GitHub code changes."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Three agents doing what, exactly?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Code Review flags bugs. PR Steward, in beta, pushes fixes for failing checks. Claude Approvals, also in beta, approves routine changes that meet a policy the team writes. It is available on Team and Enterprise plans."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So a checker, a fixer and a supervisor who signs off, but only by the rulebook the team wrote."
+   },
+   {
+    "speaker": "Mei",
+    "text": "For a company like Shopee, it could mean fewer routine changes waiting for a person to click approve. How teams write that policy would be worth watching."
+   },
+   {
+    "speaker": "Raj",
+    "text": "One thing to remember: the agent approves only what your own rules allow."
+   },
+   {
+    "speaker": "Mei",
+    "text": "The OpenClaw Foundation built a benchmark called ShellBench. It tested 13 models on 100 realistic tasks in messy workspaces."
+   },
+   {
+    "speaker": "Raj",
+    "text": "How did they do?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Top models completed about six in ten. Results also varied between repeated runs. And the cheaper GPT-6.1 Sol nearly matched the costlier Astra, at 17 cents versus $1.01 per run."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Like two hawker stalls selling nearly the same plate, one at a fraction of the price. But on some days the chef has an off day."
+   },
+   {
+    "speaker": "Mei",
+    "text": "For teams at a company like Shopee, it could mean testing the cheaper model before paying for the pricier one. It could also mean not assuming a good result will repeat."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So remember: agents fail about four in ten everyday tasks."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Now, try this today. Before an AI agent acts on its own, make it show what it would have done."
+   },
+   {
+    "speaker": "Raj",
+    "text": "A dress rehearsal, basically."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Claude Approvals has an observe-only mode. Google's governance policies have a dry run that logs would-be denials without blocking. Start small, read the log, then switch to enforcement."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So if your team is piloting any agent, ask for watch-only mode first. Read the log before you let it loose."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Rapid fire. OpenAI and Cisco released Shirudo, a free, open-source tool that places temporary shields on a running Linux system until the official patch is ready. It does not replace patching."
+   },
+   {
+    "speaker": "Raj",
+    "text": "OpenAI launched OpenWorks, a pilot that pays local AI-savvy partners stipends of up to $8,000 a month to help small businesses use AI in 20 US cities."
+   },
+   {
+    "speaker": "Mei",
+    "text": "A Colgate-Palmolive paper suggests large language models could stand in for consumers in market research, but only when told which demographics to impersonate. Colgate says it is no replacement for asking real people."
+   },
+   {
+    "speaker": "Raj",
+    "text": "And Sierra's AI customer service startup is raising $1.75B at a $30B valuation, double its value six months ago."
+   },
+   {
+    "speaker": "Mei",
+    "text": "So, back to where we started. Nvidia brought Jensen Huang back, and The Deep View argues it shows how much the AI market leans on one person."
+   },
+   {
+    "speaker": "Raj",
+    "text": "And on the agent side, watch first, then trust. Agents still fail about four in ten tasks."
+   },
+   {
+    "speaker": "Mei",
+    "text": "The full digest with links is in the newsletter. Do check it out."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Finish your kopi, and see you tomorrow."
+   },
+   {
+    "speaker": "Mei",
+    "text": "This was AI Kopi Daily."
+   }
+  ]
+ },
+ {
   "date": "2026-11-24",
   "title": "Claude's Maths Proof, Shared AI Limits, Laptop Models",
   "pretty": "Tue 24 Nov 2026",
