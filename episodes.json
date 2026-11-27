@@ -1,5 +1,201 @@
 [
  {
+  "date": "2026-11-27",
+  "title": "AI Kopi Daily: Humans Keep the Say",
+  "pretty": "Fri 27 Nov 2026",
+  "minutes": "5 min",
+  "seconds": 297,
+  "bytes": 2382347,
+  "points": [
+   "Anthropic CEO Dario Amodei says AI should not make society's big decisions and must be governed through democratic processes.",
+   "SpaceX won US FCC approval for orbital AI data centres of up to one million satellites.",
+   "Some heavy ChatGPT users may hit limits sooner as OpenAI moves Chat and Work onto one shared meter."
+  ],
+  "rfc822": "Fri, 27 Nov 2026 08:00:00 +0800",
+  "transcript": [
+   {
+    "speaker": "Mei",
+    "text": "Anthropic's CEO says AI should not make society's big decisions. People should, through democratic processes."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Clear answer, and I haven't even finished my kopi yet."
+   },
+   {
+    "speaker": "Mei",
+    "text": "This is AI Kopi Daily, your morning roundup of AI news."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Three things in thirty seconds. One: Anthropic CEO Dario Amodei says AI should not make society's big decisions and must be governed through democratic processes."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Two: SpaceX won US Federal Communications Commission approval for orbital AI data centres, of up to one million satellites."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Three: some heavy ChatGPT users may hit limits sooner, as OpenAI moves Chat and Work onto one shared meter."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Axios reported that many at Anthropic expect humanity to eventually hand some decision-making to superintelligent AI. Dario Amodei rejected that. He called it absurd to say he wants people to give up free will."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So where does he draw the line?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Between tasks and rules. AI can do tasks, such as driving or designing drugs. But it should not set society's rules. He said AI should be governed democratically, and that some deployments might need slowing."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Slowing down? That is notable for an AI boss to say."
+   },
+   {
+    "speaker": "Mei",
+    "text": "He said some deployments might need it. Which ones, we are not told."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Think of a kopitiam helper. They can make the drinks all day, but the owner still sets the prices and the menu. AI does the tasks, people keep the rules."
+   },
+   {
+    "speaker": "Mei",
+    "text": "And for a company like Shopee?"
+   },
+   {
+    "speaker": "Raj",
+    "text": "It could be a prompt to ask which decisions should always stay with a person. Worth watching."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Next, space. The US Federal Communications Commission has authorised SpaceX to build a constellation of up to one million satellites. They would act as AI data centres in orbit."
+   },
+   {
+    "speaker": "Raj",
+    "text": "One million. Sorry, say that again?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Up to one million satellites, working together as AI data centres in orbit."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Is there a catch?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "The approval includes deadlines SpaceX must meet as it deploys the satellites."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So it is like permission to build a huge industrial estate, with milestones to hit. Except this estate floats above us."
+   },
+   {
+    "speaker": "Mei",
+    "text": "And why should a Shopee team care?"
+   },
+   {
+    "speaker": "Raj",
+    "text": "It could one day change where AI computing power comes from. That is only a thought, not a forecast. Worth watching how those deadlines go."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Now something closer to your desk. OpenAI says ChatGPT's Chat and Work modes will draw from one shared usage allowance."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Meaning?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Because of this, a small group of heavy users may reach their limits earlier than before."
+   },
+   {
+    "speaker": "Raj",
+    "text": "How small a group, and when?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "Just a small group, and the change will reach more users in December."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Like one phone data plan covering everything. If you stream a lot, the data runs out sooner."
+   },
+   {
+    "speaker": "Mei",
+    "text": "And for a team at a company like Shopee?"
+   },
+   {
+    "speaker": "Raj",
+    "text": "Teams that lean hard on ChatGPT could check how much they use now. Then a limit will not surprise them mid-task. Worth watching in December."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Try this one today. Heidelberg University released a free add-on for Claude Code and Codex. It stops coding agents from claiming code is faster without proof."
+   },
+   {
+    "speaker": "Raj",
+    "text": "So how does it work?"
+   },
+   {
+    "speaker": "Mei",
+    "text": "You first agree on four things: a test, a success measure, correctness checks and a budget. The agent then tests one small change at a time. It keeps a change only if it is measurably faster and still correct."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Like a taste test before changing the recipe. One tweak, one taste, keep it only if it is better."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Any results? In one example, a tool ran 3.9x faster."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Even if you do not write code, borrow the habit. Before anyone says something is better, ask what the test is and what counts as success."
+   },
+   {
+    "speaker": "Mei",
+    "text": "Rapid fire. Fortune reports that Amazon and Meta were negotiating a deal that would let Meta's Muse AI agent buy products on Amazon for users."
+   },
+   {
+    "speaker": "Raj",
+    "text": "How ads would be handled, and how Amazon's search results would be shown to the agent, were still unresolved."
+   },
+   {
+    "speaker": "Mei",
+    "text": "PrismML released Ternary Bonsai 2.5 27B, a free, open source coding model compressed to 5.9 GB. That is small enough to run on a Mac or an iPhone."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Several Democratic senators are calling for new limits on AI, after Axios reported that staff at AI labs fear some internal models are too dangerous to release."
+   },
+   {
+    "speaker": "Mei",
+    "text": "And OpenAI's Private Inference runs company queries on its top models without OpenAI being able to see the data. The first enterprise customers are piloting it."
+   },
+   {
+    "speaker": "Mei",
+    "text": "So, back to where we began. Dario Amodei says humans, not AI, should make society's big decisions."
+   },
+   {
+    "speaker": "Raj",
+    "text": "AI does the tasks, we keep the say. That is the one to remember."
+   },
+   {
+    "speaker": "Mei",
+    "text": "The full digest, with links, is in the newsletter."
+   },
+   {
+    "speaker": "Raj",
+    "text": "Have a good Friday, lah. This was AI Kopi Daily."
+   }
+  ]
+ },
+ {
   "date": "2026-11-25",
   "title": "Nvidia's U-turn, Claude Ship and agents that fail",
   "pretty": "Wed 25 Nov 2026",

@@ -8,6 +8,13 @@
 <itunes:image href="https://kxs7733.github.io/ai-kopi-podcast/cover.jpg"/><image><url>https://kxs7733.github.io/ai-kopi-podcast/cover.jpg</url><title>AI Kopi Daily</title>
 <link>https://kxs7733.github.io/ai-kopi-podcast/</link></image>
 <itunes:category text="Technology"/><itunes:explicit>false</itunes:explicit>
+<item><title>AI Kopi Daily: Humans Keep the Say</title>
+<description>Anthropic CEO Dario Amodei says AI should not make society&#x27;s big decisions and must be governed through democratic processes. SpaceX won US FCC approval for orbital AI data centres of up to one million satellites. Some heavy ChatGPT users may hit limits sooner as OpenAI moves Chat and Work onto one shared meter.</description>
+<link>https://kxs7733.github.io/ai-kopi-podcast/e/2026-11-27.html</link><guid isPermaLink="false">ai-kopi-2026-11-27</guid>
+<pubDate>Fri, 27 Nov 2026 08:00:00 +0800</pubDate>
+<enclosure url="https://kxs7733.github.io/ai-kopi-podcast/audio/2026-11-27.mp3" length="2382347" type="audio/mpeg"/>
+<itunes:duration>297</itunes:duration><itunes:episodeType>full</itunes:episodeType>
+<itunes:explicit>false</itunes:explicit></item>
 <item><title>Nvidia&#x27;s U-turn, Claude Ship and agents that fail</title>
 <description>Nvidia&#x27;s board reinstated Jensen Huang as CEO after US government input; shares jumped about 30% and he faces House hearings in December. Anthropic launched Claude Ship, agents that review, fix and approve code changes; OpenAI and Cisco released Shirudo to shield live Linux servers. Z.ai released GLM-5.4, which reuses its layers twice to think deeper, while a new benchmark shows agents fail about four in ten tasks.</description>
 <link>https://kxs7733.github.io/ai-kopi-podcast/e/2026-11-25.html</link><guid isPermaLink="false">ai-kopi-2026-11-25</guid>
